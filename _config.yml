@@ -9,7 +9,7 @@ description: >
 version: 1.0
 gitbook_version: 3.2.3
 
-url: 'https://sighingnow.github.io'
+url: 'https://katsampukas.github.io'
 baseurl: ''
 rss: RSS
 
@@ -45,7 +45,7 @@ collections:
     output: false
     permalink: /:collection/:path/
 
-destination: ./_site
+destination: ./docs
 incremental: false
 regenerate: true
 
