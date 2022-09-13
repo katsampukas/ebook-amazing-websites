@@ -1,11 +1,33 @@
-html {
-  color: green;
-  background: red !important;
-}
+// Navigation
 
-.body-inner .navigation {
+.book-body .body-inner .navigation {
   position: fixed;
   left: auto;
   font-size: 70px;
   color: #818181;
+
+  // Mobile, add a backdrop filter
+  @media (max-width: 1240px) {
+    max-width: 50%;
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(3px);
+  }
+
+  @at-root .with-summary & {
+
+    @media (max-width: 1240px) {
+      max-width: calc(50% - 150px);
+      width: calc(50% - 150px);
+    }
+  }
 }
+
+html {
+  color: red;
+}
+
+.back-to-top {
+  z-index: 1;
+}
+
