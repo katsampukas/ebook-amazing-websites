@@ -1,3 +1,7 @@
-html { color: green; background: red !important; }
+.book-body .body-inner .navigation { position: fixed; left: auto; font-size: 70px; color: #818181; }
+@media (max-width: 1240px) { .book-body .body-inner .navigation { max-width: 50%; width: 50%; background-color: rgba(255, 255, 255, 0.9); backdrop-filter: blur(3px); } }
+@media (max-width: 1240px) { .with-summary .book-body .body-inner .navigation { max-width: calc(50% - 150px); width: calc(50% - 150px); } }
 
-.body-inner .navigation { position: fixed; left: auto; font-size: 70px; color: #818181; }
+html { color: red; }
+
+.back-to-top { z-index: 1; }
