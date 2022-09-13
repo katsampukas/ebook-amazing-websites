@@ -10,8 +10,8 @@
         },
         "pluginsConfig": {
             "fontsettings": {
-                "family": "sans",
-                "size": 2,
+                "family": "serif",
+                "size": 3,
                 "theme": "white"
             },
             "highlight": {},
