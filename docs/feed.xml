@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/ebook-amazing-websites/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ebook-amazing-websites/" rel="alternate" type="text/html" /><updated>2022-09-13T18:19:48+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/feed.xml</id><title type="html">Create Amazing Websites!</title><subtitle>Build Jekyll site with the GitBook style.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/ebook-amazing-websites/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ebook-amazing-websites/" rel="alternate" type="text/html" /><updated>2022-09-14T20:32:32+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/feed.xml</id><title type="html">Create Amazing Websites!</title><subtitle>Build Jekyll site with the GitBook style.
 </subtitle><author><name>Giorgos Katsiampas</name></author><entry><title type="html">License</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-29-license.html" rel="alternate" type="text/html" title="License" /><published>2019-04-29T00:00:00+03:00</published><updated>2019-04-29T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/license</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-29-license.html">&lt;p&gt;This work is open sourced under the Apache License, Version 2.0, using the
 same license as the original &lt;a href=&quot;https://github.com/GitbookIO/gitbook&quot;&gt;GitBook&lt;/a&gt; repository.&lt;/p&gt;
 
-&lt;p&gt;Copyright 2019 Tao He.&lt;/p&gt;</content><author><name>Tao He</name></author><category term="Jekyll" /><summary type="html">This work is open sourced under the Apache License, Version 2.0, using the same license as the original GitBook repository.</summary></entry><entry><title type="html">How to Get Started</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-28-howto.html" rel="alternate" type="text/html" title="How to Get Started" /><published>2019-04-28T00:00:00+03:00</published><updated>2019-04-28T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/howto</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-28-howto.html">&lt;p&gt;The jekyll-gitbook theme can be used just as other &lt;a href=&quot;https://pages.github.com/themes&quot;&gt;Jekyll themes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/sighingnow/jekyll-gitbook/fork&quot;&gt;Fork&lt;/a&gt; this repository and add your markdown posts to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, then
-push to your own Github repository. No need to push generated HTML bundle.&lt;/p&gt;</content><author><name>Tao He</name></author><category term="Jekyll" /><summary type="html">The jekyll-gitbook theme can be used just as other Jekyll themes.</summary></entry><entry><title type="html">How to Generate TOC, what?</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-28-toc.html" rel="alternate" type="text/html" title="How to Generate TOC, what?" /><published>2019-04-28T00:00:00+03:00</published><updated>2019-04-28T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/toc</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-28-toc.html">&lt;p&gt;The jekyll-gitbook theme leverages &lt;a href=&quot;https://github.com/allejo/jekyll-toc&quot;&gt;jekyll-toc&lt;/a&gt; to generate the &lt;em&gt;Contents&lt;/em&gt; for the page.
+&lt;p&gt;Copyright 2019 Tao He.&lt;/p&gt;</content><author><name>Tao He</name></author><category term="Jekyll" /><summary type="html">This work is open sourced under the Apache License, Version 2.0, using the same license as the original GitBook repository.</summary></entry><entry><title type="html">How to Generate TOC, what?</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-28-toc.html" rel="alternate" type="text/html" title="How to Generate TOC, what?" /><published>2019-04-28T00:00:00+03:00</published><updated>2019-04-28T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/toc</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-28-toc.html">&lt;p&gt;The jekyll-gitbook theme leverages &lt;a href=&quot;https://github.com/allejo/jekyll-toc&quot;&gt;jekyll-toc&lt;/a&gt; to generate the &lt;em&gt;Contents&lt;/em&gt; for the page.
 The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
 configuration in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;:&lt;/p&gt;
 
@@ -179,7 +176,7 @@ configuration in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;
   &lt;li&gt;6&lt;/li&gt;
   &lt;li&gt;7&lt;/li&gt;
   &lt;li&gt;8&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tao He</name></author><category term="Jekyll" /><summary type="html">The jekyll-gitbook theme leverages jekyll-toc to generate the Contents for the page. The TOC feature is not enabled by default. To use the TOC feature, modify the TOC configuration in _config.yml:</summary></entry><entry><title type="html">Σπουδαία Websites</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-27-why.html" rel="alternate" type="text/html" title="Σπουδαία Websites" /><published>2019-04-27T00:00:00+03:00</published><updated>2019-04-27T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/why</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-27-why.html">&lt;p&gt;Καθώς η χρήση του internet τα τελευταία χρόνια έχει φτάσει σε τόσο υψηλό επίπεδο που σχεδόν θεωρείται παράξενο να μην υπάρχει κάποια πληροφορία ή μια επιχείρηση σε αυτό, την ίδια στιγμή υπάρχει ένα κενό στο &lt;strong&gt;ποιος είναι ο σωστός τρόπος&lt;/strong&gt; προκειμένου να αναπτύξει την ηλεκτρονική του παρουσία ένας μικρός - μέσος επιχειρηματίας, ένας blogger ή ακόμη κι ένας ερασιτέχνης.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Tao He</name></author><category term="Jekyll" /><summary type="html">The jekyll-gitbook theme leverages jekyll-toc to generate the Contents for the page. The TOC feature is not enabled by default. To use the TOC feature, modify the TOC configuration in _config.yml:</summary></entry><entry><title type="html">Σπουδαία Websites - Εισαγωγή</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-27-1.Abstract.html" rel="alternate" type="text/html" title="Σπουδαία Websites - Εισαγωγή" /><published>2019-04-27T00:00:00+03:00</published><updated>2019-04-27T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/1.Abstract</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-27-1.Abstract.html">&lt;p&gt;Καθώς η χρήση του internet τα τελευταία χρόνια έχει φτάσει σε τόσο υψηλό επίπεδο που σχεδόν θεωρείται παράξενο να μην υπάρχει κάποια πληροφορία ή μια επιχείρηση σε αυτό, την ίδια στιγμή υπάρχει ένα κενό στο &lt;strong&gt;ποιος είναι ο σωστός τρόπος&lt;/strong&gt; προκειμένου να αναπτύξει την ηλεκτρονική του παρουσία ένας μικρός - μέσος επιχειρηματίας, ένας blogger ή ακόμη κι ένας ερασιτέχνης.&lt;/p&gt;
 
 &lt;p&gt;Την ίδια στιγμή, πολλοί νέοι επαγγελματίες στο χώρο του internet, προγραμματιστές, SEO analysts, marketeers κτλ., αδυνατούν να καταλάβουν δύο θεμελιώδη πράγματα: αφενός ποιες είναι οι πραγματικές ανάγκες πίσω από την ανάθεση μιας εργασίας και αφετέρου ποιος είναι ο πιο δόκιμος τρόπος και ποια τα βασικά συστατικά για την επίτευξη μιας καλής ηλεκτρονικής παρουσίας.&lt;/p&gt;
 
@@ -225,7 +222,7 @@ configuration in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;
 
 &lt;p&gt;Εικόνα 1: Πρώτη θέση του Arahova Pansion στην αναζήτηση “Αράχωβα”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image1-1.jpg&quot; alt=&quot;arahova-pansion 1h thesi&quot; title=&quot;Πρώτη θέση του Arahova Pansion στην αναζήτηση “Αράχωβα”&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σήμερα, οι σελίδες μου αυτές έχουν καλή κατάταξη σε περισσότερο σχετικές αναζητήσεις με τη διαμονή στην Αράχωβα, καθώς και με κάποιες συναφείς λέξεις-στόχους που είναι κοντά στη διαμονή.&lt;/p&gt;
 
@@ -318,4 +315,334 @@ version control via git for when there are generated HTML files to be staged in 
 &lt;p&gt;This theme takes style definition out of generated GitBook site and provided the template
 for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
 to &lt;a href=&quot;https://pages.github.com&quot;&gt;Github Pages&lt;/a&gt; without generating and uploading HTML bundle every time when there are
-changes to the original repository.&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Καθώς η χρήση του internet τα τελευταία χρόνια έχει φτάσει σε τόσο υψηλό επίπεδο που σχεδόν θεωρείται παράξενο να μην υπάρχει κάποια πληροφορία ή μια επιχείρηση σε αυτό, την ίδια στιγμή υπάρχει ένα κενό στο ποιος είναι ο σωστός τρόπος προκειμένου να αναπτύξει την ηλεκτρονική του παρουσία ένας μικρός - μέσος επιχειρηματίας, ένας blogger ή ακόμη κι ένας ερασιτέχνης.</summary></entry></feed>
+changes to the original repository.&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Καθώς η χρήση του internet τα τελευταία χρόνια έχει φτάσει σε τόσο υψηλό επίπεδο που σχεδόν θεωρείται παράξενο να μην υπάρχει κάποια πληροφορία ή μια επιχείρηση σε αυτό, την ίδια στιγμή υπάρχει ένα κενό στο ποιος είναι ο σωστός τρόπος προκειμένου να αναπτύξει την ηλεκτρονική του παρουσία ένας μικρός - μέσος επιχειρηματίας, ένας blogger ή ακόμη κι ένας ερασιτέχνης.</summary></entry><entry><title type="html">Πριν ξεκινήσεις</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-27-2.Before-start.html" rel="alternate" type="text/html" title="Πριν ξεκινήσεις" /><published>2019-04-27T00:00:00+03:00</published><updated>2019-04-27T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/2.Before-start</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-27-2.Before-start.html">&lt;h2 id=&quot;δεν-χρειάζεσαι-τη-θέση-νο1&quot;&gt;Δεν χρειάζεσαι τη θέση νο1&lt;/h2&gt;
+
+&lt;p&gt;Πώς επιλέγουν οι επισκέπτες κάποιο αποτέλεσμα μετά από μια αναζήτηση στο Google Search;&lt;/p&gt;
+
+&lt;p&gt;Αυτό το ερώτημα είναι αντικείμενο πολλών ερευνών και απασχολεί τα τελευταία χρόνια όλο και περισσότερους.&lt;/p&gt;
+
+&lt;p&gt;Τα αποτελέσματα δύο τέτοιων ερευνών που ανέλυσαν εκατομμύρια αναζητήσεις και δισεκατομμύρια αποτελέσματα συγκλίνουν στο ότι η 1η θέση στα αποτελέσματα παίρνει περίπου το ⅓ των clicks που θα γίνουν. Η 2η θέση θα πάρει λίγο λιγότερα και όσο πιο κάτω είναι ένα αποτέλεσμα στη σειρά τόσο μειώνεται η απόδοσή της από άποψης ποσοστού μετατροπής ή Conversion Through Rate (CTR, δηλαδή πόσοι από τους επισκέπτες που είδαν τα αποτελέσματα, επέλεξαν τελικά με click το συγκεκριμένο). Επίσης, τα αποτελέσματα που δεν βρίσκονται στην πρώτη σελίδα έχουν ελάχιστες πιθανότητες επιλογής.&lt;/p&gt;
+
+&lt;p&gt;Στην 1η έρευνα[^2] από το Backlinko.com του 2019 (εικ. 2.1) όπου αναλύθηκαν 5 εκατομμύρια αναζητήσεις το 1ο αποτέλεσμα είναι 10 φορές πιο πιθανό να το επιλέξει κάποιος σε σχέση με το 10ο αποτέλεσμα. Επίσης, πρακτικά οι θέσεις 7-10 έχουν παρόμοιες πιθανότητες επιλογής, ενώ κάθε θέση ψηλότερα στην κατάταξη, ιδίως για τις θέσεις 1-7, αποφέρει περίπου 30% περισσότερες πιθανότητες επιλογής.&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.1: CTR και θέση κατάταξης σε αποτελέσματα Google - Backlinko.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Από την ίδια έρευνα προκύπτει ότι μετά το 10ο αποτέλεσμα, όπου από προεπιλογή (by default) αλλάζει η σελίδα από την 1η στην 2η, τα ποσοστά είναι πολύ χαμηλά και περίπου ίδια για όλα τα αποτελέσματα (εικ. 2.2.).&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.2: CTR και θέση κατάταξης σε αποτελέσματα Google - Backlinko.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ίδια περίπου ευρήματα προκύπτουν και από μια 2η μελέτη[^3] όπου αναλύθηκαν το 2020 από το Sistrix.com, η οποία περιελάμβανε 80 εκατομμύρια αναζητήσεις και δισεκατομμύρια αποτελέσματα (εικ. 2.3).&lt;/p&gt;
+
+&lt;p&gt;Η βασική διαφορά με αυτή τη μελέτη είναι ότι εδώ αναλύθηκαν αποκλειστικά δεδομένα από αναζητήσεις σε κινητές συσκευές smartphones, όπου η μικρή οθόνη έχει περιορισμένο ωφέλιμο χώρο για πληροφορία.&lt;/p&gt;
+
+&lt;p&gt;Και σε αυτή τη μελέτη επιβεβαιώνεται το μοτίβο σύμφωνα με το οποίο όσο πιο ψηλά στην κατάταξη βρίσκεται ένα αποτέλεσμα, τόσες περισσότερες πιθανότητες για να το επιλέξει ένας χρήστης.&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.3: CTR και θέση κατάταξης σε αποτελέσματα Google - Sistrix.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Δεν είναι λοιπόν περίεργο για όσους ελπίζουν σε ένα click μέσω των αποτελεσμάτων του Google Search να θέλουν να “σκαρφαλώσουν” στην 1η θέση της κατάταξης.&lt;/p&gt;
+
+&lt;p&gt;Πόσο σωστό είναι όμως σήμερα αυτό;&lt;/p&gt;
+
+&lt;p&gt;Προσωπικά θεωρώ πως σήμερα** δεν είναι καθόλου απαραίτητο** και πως δεν χρειάζεσαι την 1η θέση για 2 βασικούς λόγους:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Αλλάζει ταχύτατα η χρήση του internet από κινητές συσκευές - πλέον η πλειοψηφία των websites έχει περισσότερες επισκέψεις από smartphones παρά από υπολογιστές &amp;amp; laptops. Οι παλαιότερες έρευνες στα ποσοστά μετατροπών (CTR) αφορούσαν συνήθως Desktop συσκευές (υπολογιστές, laptops), όπου οι οθόνες και η πληροφορία, καθώς και το περιβάλλον και οι συνθήκες ήταν εντελώς διαφορετικές από τα αντίστοιχα για τις κινητές συσκευές (smartphones, tablets, smartwatches).&lt;/li&gt;
+  &lt;li&gt;Αλλάζει ταχύτατα και το περιεχόμενο των αποτελεσμάτων στις σελίδες του Google και πλέον στα αποτελέσματα υπάρχουν εικόνες, video, συχνές ερωτήσεις, content graphs, τοπικές επιχειρήσεις, χάρτες κτλ. Όλα αυτά διεκδικούν την προσοχή και το click των επισκεπτών και αφαιρούν κίνηση από τα οργανικά αποτελέσματα (δηλαδή τα μη πληρωμένα αποτελέσματα της βασικής λίστας).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Εκτός αυτών, ή μάλλον εξαιτίας αυτών, μελέτες[^4] έχουν δείξει (2020) (εικ. 2.4) ότι σχεδόν τα ⅔ των αναζητήσεων που γίνονται στο Google Search δεν καταλήγουν σε click (αναζητήσεις με μηδέν clicks ή zero click searches). Αυτό μπορεί να οφείλεται εν μέρει στο ότι κάποιες αναζητήσεις δεν είναι αρκετά καλές εξαρχής και θέλουν αναθεώρηση, και εν μέρει στο ότι η σελίδα της Google προσφέρει ήδη τις απαντήσεις που ενδεχομένως αναζητούν οι χρήστες.&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.4: Αναζητήσεις zero-clicks 2020 - Sparktoro.com&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Οι αναζητήσεις μηδενικών clicks είναι σήμερα περισσότερες από ότι οι υπόλοιπες.&lt;/p&gt;
+
+&lt;p&gt;Οι αναζητήσεις μηδενικών clicks ενδεχομένως σημαίνουν ότι η απάντηση βρίσκεται ήδη στη σελίδα αποτελεσμάτων, κι έτσι με αυτό τον τρόπο η Google μπορεί να κερδίζει χρήματα, δεδομένου ότι στην ίδια σελίδα των αποτελεσμάτων πουλάει τις διαφημίσεις της.&lt;/p&gt;
+
+&lt;p&gt;Έτσι, αποκτά πλεονέκτημα καθώς οι υπόλοιπες σελίδες που βρίσκονται στα αποτελέσματα δεν παίρνουν κίνηση.&lt;/p&gt;
+
+&lt;p&gt;Αυτό μπορεί να αποδειχτεί ιδιαίτερα προβληματικό καθώς αρκετό από το περιεχόμενο που εμφανίζεται στη σελίδα αποτελεσμάτων Google μπορεί να ανήκει σε εκδότες ή δημιουργούς οι οποίοι έτσι μπορεί να χάνουν αρκετά χρήματα.&lt;/p&gt;
+
+&lt;p&gt;Η Google βάζει όλο και περισσότερο περιεχόμενο στις σελίδες των αποτελεσμάτων της. Μάλιστα, σε ένα πρόσφατο event της, το “Search On 2021” αποκάλεσε την κατεύθυνση αυτή &lt;strong&gt;Walled Gardens&lt;/strong&gt; (περιφραγμένους κήπους), ένας όρος που σημαίνει ένα κλειστό οικοσύστημα στο οποίο όλες οι λειτουργίες ελέγχονται από τον διαχειριστή του οικοσυστήματος.&lt;/p&gt;
+
+&lt;p&gt;Δηλαδή, την ίδια τη Google!&lt;/p&gt;
+
+&lt;p&gt;Ένα ωραίο παράδειγμα από την ιστορία σχετικά με το τι σημαίνει ο όρος “Walled Garden” έρχεται από τον τομέα της τηλεφωνίας, όπου την περίοδο του 1970 μόνο τηλεφωνικές συσκευές που κατασκευάζονταν από τους παρόχους των τηλεφωνικών δικτύων μπορούσαν να συνδεθούν στα δίκτυα. Στην Αμερική η τηλεφωνική εταιρεία Bell Systems κατείχε όλες τις τηλεφωνικές συσκευές που χρησιμοποιούσαν οι πελάτες της, το ίδιο περίπου συνέβαινε και στην Ελλάδα με τις συσκευές του ΟΤΕ.&lt;/p&gt;
+
+&lt;p&gt;Σε ένα περιβάλλον επομένως που αρχίζει και προκρίνει τις αναζητήσεις μηδενικών clicks και τη συνεπακόλουθη μείωση των clicks στα οργανικά αποτελέσματα, η &lt;strong&gt;1η θέση είναι σχεδόν ουτοπία&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Το γεγονός ότι μειώνεται το ποσοστό μετατροπών (CTR) στα οργανικά αποτελέσματα αποδεικνύεται από αρκετές νέες έρευνες και άλλωστε είναι κάτι αναμενόμενο.&lt;/p&gt;
+
+&lt;p&gt;Μια έρευνα[^5] για το CTR οργανικών αποτελεσμάτων στην Αμερική για παράδειγμα (2021), δείχνει ότι σε smartphones, όταν περιλαμβάνεται η ενότητα “οι χρήστες επίσης ρωτούν” (εικ. 2.5), το ποσοστό μετατροπής του 1ου οργανικού αποτελέσματος πέφτει από το 50% στο 23% (εικ. 2.6)!&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.5: Ενότητα “οι χρήστες επίσης ρωτούν” στο Google&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.6: CTR οργανικών αποτελεσμάτων και οργανικών αποτελεσμάτων με ταυτόχρονη παρουσία της ενότητας “οι χρήστες επίσης ρωτούν” - Advancedwebranking.com&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Αντίστοιχα, όταν σε smartphones περιλαμβάνεται η ενότητα “Τοπικά αποτελέσματα” (εικ. 2.7), τότε η απόδοση του 1ου οργανικού αποτελέσματος πέφτει από το 50% στο 15% (εικ. 2.7)!&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.7: Ενότητα “Τοπικά αποτελέσματα (ξενοδοχεία)” στο Google&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.8: CTR οργανικών αποτελεσμάτων και οργανικών αποτελεσμάτων με ταυτόχρονη παρουσία της ενότητας Τοπικών Αποτελεσμάτων - Advancedwebranking.com&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Στις παραπάνω περιπτώσεις, θα ήταν δυνατό ένα αποτέλεσμα να βρίσκεται είτε στο “οι χρήστες επίσης ρωτούν” είτε στα τοπικά αποτελέσματα και να παίρνει περισσότερα clicks από το 1ο οργανικό αποτέλεσμα!&lt;/p&gt;
+
+&lt;p&gt;Αυτό πράγματι &lt;strong&gt;συμβαίνει σε πολλές περιπτώσεις&lt;/strong&gt;, κυρίως όταν πρόκειται για την ενότητα των τοπικών αποτελεσμάτων που συνδέονται με εγγραφές στο Google My Business και στο Google Maps: μια απλή εγγραφή στο Google My Business μπορεί να υπερκεράσει σε μια νύχτα οργανικά αποτελέσματα και παρουσίες που χτίστηκαν με πολύ κόπο, χρόνο και χρήμα.&lt;/p&gt;
+
+&lt;p&gt;Επομένως, η 1η θέση είναι μεν αρκετά σημαντική, ωστόσο όλο και περισσότερο σήμερα η σημασία της μειώνεται προς όφελος άλλων, νέων στοιχείων που τοποθετεί η Google στις σελίδες αποτελεσμάτων της.&lt;/p&gt;
+
+&lt;p&gt;Άσχετα από τα παραπάνω βέβαια, κάποιος πρέπει να έχει υπόψη τι απαιτείται για να κερδίσει την 1η θέση σε μια αναζήτηση.&lt;/p&gt;
+
+&lt;p&gt;Με λίγα λόγια, και χωρίς πολλούς τεχνικούς όρους, για να πετύχει μια σελίδα να γίνει το 1ο αποτέλεσμα θα πρέπει να είναι καλύτερη από όλα τα υπόλοιπα αποτελέσματα, από άποψης περιεχομένου, τεχνικής αρτιότητας, φιλικότητας προς τους χρήστες και την ίδια στιγμή να έχει αποκτήσει αρκετή δημοφιλία (π.χ. αναφορές σε άλλες σελίδες με links). Επίσης απαιτεί να φιλοξενείται σε καλούς και γρήγορους servers.&lt;/p&gt;
+
+&lt;p&gt;Βέβαια, την ίδια στιγμή, αρκετοί άλλοι ίσως κάνουν ήδη προσπάθειες για να κερδίσουν στην ίδια αναζήτηση: αυτό σημαίνει ότι αν προσπαθείς να δημιουργήσεις το καλύτερο αποτέλεσμα σήμερα, αυτό δεν σημαίνει ότι αυτό θα προλάβει να αξιολογηθεί σε εύλογο χρόνο. Στο μεταξύ κάποιο άλλο αποτέλεσμα πιθανώς να προλάβει να γίνει εκείνο καλύτερο. Ή ακόμη, κι αν καταφέρει να αναρριχηθεί στην πρώτη θέση, κανείς δεν εξασφαλίζει ότι αυτό θα παραμείνει για αρκετό καιρό εκεί.&lt;/p&gt;
+
+&lt;p&gt;Αν όλα αυτά φαίνονται εύκολα, σας πληροφορώ πως δεν είναι καθόλου!&lt;/p&gt;
+
+&lt;p&gt;Η 1η θέση απαιτεί πολύ κόπο, ενέργεια, ενδεχομένως χρήματα, χρόνο, έρευνα κτλ. Αλλά και επιπλέον, απαιτεί να συνοδεύεται συνήθως από μια ευρύτερη παρουσία στο internet, ώστε να υπάρχει η έννοια της “αυθεντίας”, στη συγκεκριμένη αναζήτηση.&lt;/p&gt;
+
+&lt;p&gt;Πολλοί, ίσως οι περισσότεροι μένουν απλά στη θέληση να πετύχουν το 1ο αποτέλεσμα, άλλοι κάνουν προσπάθεια σε διάφορες κατευθύνσεις που όμως συνήθως δεν αρκεί, ενώ λίγοι φτάνουν μέχρι το τέλος και καταφέρνουν να φτάσουν στις πρώτες θέσεις των αναζητήσεων.&lt;/p&gt;
+
+&lt;p&gt;Προσωπικά, υπήρξα ένας από αυτούς που τα κατάφεραν. Όχι μόνο σε μια αναζήτηση. Αλλά σε αρκετές και σε διάφορους τομείς.&lt;/p&gt;
+
+&lt;p&gt;Έχοντας κάνει όλη αυτή τη διαδρομή, έχοντας δώσει πολλή ενέργεια και χρόνο, μπορώ με σιγουριά να πω ότι η 1η θέση σε μια αναζήτηση δεν έχει πια τόση σημασία.&lt;/p&gt;
+
+&lt;p&gt;Και άρα δεν την χρειάζεσαι.&lt;/p&gt;
+
+&lt;h2 id=&quot;διάλεξε-τις-μάχες-σου&quot;&gt;Διάλεξε τις μάχες σου&lt;/h2&gt;
+
+&lt;p&gt;Όταν στο τέλος του 2015 πήρα την απόφαση να ξεκινήσω ένα επαγγελματικό website για τη μικρή οικογενειακή τουριστική επιχείρηση (ξενώνας) σε έναν δημοφιλή ορεινό τουρισμό, ήμουν ήδη ένας σχετικά καλός Front-End Engineer στο Skroutz.gr, ένα από τα γνωστότερα website της Ελλάδας. Τα χρόνια που εργαζόμουν στο Skroutz.gr είχα την τύχη να ασχοληθώ με το Search Engine Optimization και να μάθω δίπλα σε κάποιους από τους καλύτερους του χώρου.&lt;/p&gt;
+
+&lt;p&gt;Τότε, μέρος της δουλειάς μου στο Skroutz ήταν να ενημερώνομαι συνεχώς για εξελίξεις σχετικά με την κατάταξη στο Google και για νέες τεχνολογίες γύρω από αυτά, και είχα τη σχετική βεβαιότητα ότι αν βάλω στο μυαλό μου κάτι, μια αναζήτηση ή ένα σετ από αναζητήσεις, κάνοντας τα κατάλληλα βήματα θα μπορούσα να φτάσω στην κορυφή: την 1η θέση στα αποτελέσματα Google.&lt;/p&gt;
+
+&lt;p&gt;Παρόλο που είχα αρκετή εμπειρία, έστησα γρήγορα ένα website και στόχευσα στην βασική λέξη-κλειδί, που ήταν το όνομα του συγκεκριμένου ορεινού προορισμού: “&lt;strong&gt;Αράχωβα&lt;/strong&gt;”. Τότε, δεν το σκέφτηκα αρκετά αν αυτό είναι μια καλή στόχευση, καθώς ήταν (και συνήθως έτσι συμβαίνει) το προφανές, η εύκολη απάντηση.&lt;/p&gt;
+
+&lt;p&gt;Ο &lt;strong&gt;βασικός μου στόχος&lt;/strong&gt; ήταν βέβαια οι επισκέπτες που προγραμμάτιζαν ένα ταξίδι στην Αράχωβα να βρουν τον οικογενειακό ξενώνα και να κλείσουν τη διαμονή τους σε αυτόν.&lt;/p&gt;
+
+&lt;p&gt;Και τι δεν έκανα για να πετύχω το στόχο αυτό, κάτι που ήταν εκ των πραγμάτων σχεδόν ανέφικτο: να νικήσω τους γίγαντες του τουρισμού (booking.com, tripadvisor.com κτλ.) αλλά και τους τοπικούς αλλά με πολλά χρόνια και αξιοπιστία ανταγωνιστές, καθώς και ελληνικά γνωστά websites.&lt;/p&gt;
+
+&lt;p&gt;Δοκίμασα πράγματα που άλλοτε επιτρέπονταν από την ίδια την Google, άλλοτε όχι, κινούμενος πολλές φορές στις παρυφές του να κινδυνεύσω με πέναλτι ή και αφαίρεση του website μου από τα αποτελέσματα της Google.&lt;/p&gt;
+
+&lt;p&gt;Ταυτόχρονα δημιουργούσα περιεχόμενο που δεν υπήρχε και που απαντούσε σε απορίες χρηστών και έδινε αξία, έγραφα άγνωστες ιστορίες για αξιοθέατα της Αράχωβας, έβγαζα φωτογραφίες που πλέον βρίσκονται σε δεκάδες άλλες σελίδες, δομούσα το περιεχόμενο στις σελίδες με τον καλύτερο τρόπο και έχτιζα λίγο-λίγο την παρουσία του website, κερδίζοντας την εμπιστοσύνη και της ίδιας της Google.&lt;/p&gt;
+
+&lt;p&gt;Τελικά το 2019, μετά από προσπάθειες 4 χρόνων, τα κατάφερα!&lt;/p&gt;
+
+&lt;p&gt;Η σελίδα μου ήταν 1η στον όρο αναζήτησης Αράχωβα. Πριν ακόμη και από το Wikipedia!&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.9: Το arahova-pansion.gr στην 1η θέση της αναζήτησης “Αράχωβα” στο Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Τότε, έγραφα στο Σύλλογο Ξενοδόχων και Ενοικιαζόμενων Δωματίων Αράχωβας το εξής μήνυμα:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Ανάμεσα σε γίγαντες &lt;br /&gt;
+Μπορεί μια μικρή -πολύ μικρή- επιχείρηση να τα βάλει με γίγαντες? &lt;br /&gt;
+Μπορεί. &lt;br /&gt;
+Αρκεί να υπάρχει υπομονή, επιμονή, μεθοδικότητα. &lt;br /&gt;
+Πριν όχι πολλά χρόνια ξεκίνησα -κ λόγω επαγγέλματος- να στήνω την ηλεκτρονική παρουσία μιας νέας επιχείρησης προκειμένου να βοηθήσω στο ξεκίνημά του τον αδερφό μου. &lt;br /&gt;
+Στην πορεία δούλεψα αρκετά. &lt;br /&gt;
+Αλλά έμαθα πολλά. &lt;br /&gt;
+Οι γίγαντες του τουρισμού, Booking, Tripadvisor, Airbnb, HomeAway ξοδεύουν άπειρα χρήματα για να προσελκύουν πελάτες. Θα είναι πάντα εκεί, στα πληρωμένα αποτελέσματα της κατάταξης. &lt;br /&gt;
+Παρά το γεγονός αυτό, μια μικρή επιχείρηση θα μπορεί να σταθεί ανάμεσά τους -ανάμεσα σε γίγαντες-, εάν προσφέρει αξία στους χρήστες. &lt;br /&gt;
+Οι γίγαντες ποτέ δεν θα μπορέσουν να έχουν τη γνώση μιας τοπικής επιχείρησης. Παρά μόνο αν συνεργαστούν μαζί της, μόνο αν αγοράσουν τη δική της γνώση. &lt;br /&gt;
+Από την άλλη, φαντάζεται κανείς τι θα μπορούσαν να πετύχουν πολλές τοπικές επιχειρήσεις αν συνεργαζόντουσαν. &lt;br /&gt;
+Να λοιπόν, τι μπορεί να καταφέρει μια μικρή επιχείρηση, όπως φαίνεται στη φώτο. &lt;br /&gt;
+Ένας νάνος ανάμεσα σε γίγαντες.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.10: Το arahova-pansion.gr στην ενότητα “Βρείτε αποτελέσματα σε” στο Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ωστόσο, παρόλη την επιτυχία στην κατάταξη και στην αύξηση των επισκεπτών στο website, έβλεπα ότι το ενδιαφέρον για διαμονή και οι φιλοξενούμενοι στην επιχείρηση παρέμεναν σχετικά σταθεροί, αν και ο αριθμός τους ήταν πολύ ικανοποιητικός.&lt;/p&gt;
+
+&lt;p&gt;Το γεγονός αυτό μπορεί εύκολα να εξηγηθεί, σήμερα απορώ πώς τότε μου διέφευγε: ο όρος αναζήτησης “Αράχωβα” είναι πολύ γενικός. Θα μπορούσε να τον ψάξει κάποιος που θέλει να έρθει και οργανώνει το ταξίδι του, κάποιος που ψάχνει για διαμονή, κάποιος που ψάχνει γεωγραφικές πληροφορίες, κάποιος που έχει κλείσει ήδη διαμονή και θέλει τα τηλέφωνα των ΚΤΕΛ, ταξί, κάποιος που θέλει να δει τον καιρό, κάποια συγκεκριμένη επιχείρηση, πληροφορίες για επιλογές φαγητού και διασκέδασης, τα αξιοθέατα και ένα σωρό άλλα πράγματα.&lt;/p&gt;
+
+&lt;p&gt;Πλέον, έχοντας δεδομένα από την ίδια την Google μπορώ να διαβεβαιώσω ότι υπάρχουν τουλάχιστον 1.000 αναζητήσεις με συνθετικό τον όρο “Αράχωβα”.&lt;/p&gt;
+
+&lt;p&gt;Δυστυχώς, ήμουν αυτός που όντας σε αυτή τη θέση θα έπρεπε να βρω τα πιο σημαντικά κίνητρα των χρηστών πίσω από αυτή την αναζήτηση και -αν θέλω να παραμείνω στη θέση αυτή- να τα απαντήσω καλύτερα από κάθε άλλον.&lt;/p&gt;
+
+&lt;p&gt;Το γεγονός ήταν ότι ήμουν το 1ο αποτέλεσμα στον όρο “Αράχωβα”.&lt;/p&gt;
+
+&lt;p&gt;Θα μπορούσα να κάνω τα πάντα.&lt;/p&gt;
+
+&lt;p&gt;Θα μπορούσα για παράδειγμα να κατευθύνω τους επισκέπτες σε συγκεκριμένες επιχειρήσεις, θα μπορούσα επίσης να συμπεριλάβω κι άλλες επιχειρήσεις διαμονής και να δώσω τη δυνατότητα κρατήσεων, θα μπορούσα να πουλήσω την αυξημένη επισκεψιμότητα είτε με μορφή διαφημίσεων είτε με παρουσίαση επιχειρήσεων (οδηγός Αράχωβας) κ.α.&lt;/p&gt;
+
+&lt;p&gt;Η βασική μου ιδέα στο τέλος, ήταν να φτιάξω ένα σύστημα κρατήσεων ανάλογο του Booking.com και να πείσω όλους τους επιχειρηματίες της περιοχής να βγουν από το Booking και από άλλες μηχανές κρατήσεων ώστε όλοι να κλείνουν τη διαμονή τους στην Αράχωβα από τις δικές μου σελίδες. Καθώς είναι γνωστό ότι για κάθε κράτηση στο Booking και στα σχετικά sites ο πελάτης πληρώνει προμήθεια (περίπου 15%), αυτό που πρότεινα τότε στους επιχειρηματίες είναι να κάνουμε την μετάβαση και να αποδίδουμε ένα ποσοστό που θα συμφωνήσουμε σε ένα ταμείο προκειμένου να γίνονται έργα στην περιοχή ώστε ο προορισμός να καταστεί περισσότερο ανταγωνιστικός. Ήμασταν ήδη πρώτοι, δεν είχαμε ανάγκη κανένα Booking. Οπότε επικοινώνησα την ιδέα αυτή.&lt;/p&gt;
+
+&lt;p&gt;Το αποτέλεσμα ήταν σκέτη καταστροφή. Πέρα από 2-3 φωτισμένους επιχειρηματίες που βρήκαν την ιδέα φανταστική, οι υπόλοιποι δεν απάντησαν καν!&lt;/p&gt;
+
+&lt;p&gt;Το γεγονός αυτό δε με πτόησε ιδιαίτερα, αντίθετα μου έκανε τρομερή εντύπωση καθώς πίστευα ότι είχα πάρει ένα σπουδαίο μάθημα όσον αφορά τον επιχειρηματικό κόσμο: &lt;strong&gt;δεν αρκεί να είσαι ο καλύτερος, πρέπει να μπορείς και να πείσεις τους ανθρώπους&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Εγώ -δυστυχώς για το σχέδιο που ανέφερα- συνέχιζα να είμαι πολύ απορροφημένος με τη βασική μου εργασία στο Skroutz, έχοντας πολύ περιορισμένο διαθέσιμο χρόνο και ενέργεια για τόσο μεγαλεπήβολα σχέδια.&lt;/p&gt;
+
+&lt;p&gt;Οπότε, έριξα τους ρυθμούς μου σε σχέση με το Arahova Pansion: δεν είχα λόγο να το υποστηρίζω για την 1η θέση για τον όρο “Αράχωβα”. Έπρεπε να διαλέξω τις μάχες που θα έδινα. Κάποιος άλλος θα έπαιρνε με τον καιρό τη θέση μου (όπως κι έγινε) και εγώ θα έμενα εκεί όπου έχει πραγματικά νόημα για την φύση της επιχείρησης για την οποία είχα στήσει εξαρχής το site!&lt;/p&gt;
+
+&lt;p&gt;Σήμερα, το &lt;a href=&quot;https://arahova-pansion.gr&quot;&gt;arahova-pansion.gr&lt;/a&gt; έχει επικεντρωθεί σε βασικές αναζητήσεις που έχουν ως κίνητρο τη διαμονή, όπως φαίνεται στις εικόνες που ακολουθούν. Επίσης, έχω διατηρήσει μερικές βασικές αναζητήσεις περιφερειακές της διαμονής που μπορεί να μην εκπληρώνουν με άμεσο τρόπο την αύξηση των κρατήσεων στον ξενώνα, όμως διατηρούν ένα βαθμό επισκεψιμότητας και συνεισφέρουν με έμμεσο τρόπο στην επιτυχία της επιχείρησης.&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.11: Το arahova-pansion.gr στην αναζήτηση “σαλε αραχωβα τιμες” στο Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.12: Το arahova-pansion.gr στην αναζήτηση “σαλε αραχωβα για 2 άτομα” στο Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.13: Το arahova-pansion.gr στην αναζήτηση “σαλε λιβαδι αραχωβα” στο Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.14: Το arahova-pansion.gr στην αναζήτηση “αραχωβα διαμονη” στο Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.15: Το arahova-pansion.gr στην αναζήτηση “φθηνα δωματια αραχωβα” στο Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Η βασική διεργασία που θα καθορίσει το ποιο είναι το καλύτερο σετ αναζητήσεων το οποίο θα πρέπει να στοχεύσει ένα σύνολο σελίδων λέγεται “έρευνα αναζητήσεων” (keyword research).&lt;/p&gt;
+
+&lt;p&gt;Το keyword research δεν είναι μια απλή διαδικασία. Απαιτεί εμπειρία, γνώση του συγκεκριμένου τομέα (π.χ. ταξίδια, τουρισμός κτλ) και χρήση κατάλληλων εργαλείων. Αλλά ταυτόχρονα απαιτεί και ένστικτο και κάποιος να ασχοληθεί σε βάθος προκειμένου να καταφέρει να συνδυάσει τις ανάγκες για επισκεψιμότητα απο τη μια και τα κίνητρα και τη φύση πίσω από τις αναζητήσεις από την άλλη. Σε συνδυασμό φυσικά με τον βασικό business στόχο του site.&lt;/p&gt;
+
+&lt;p&gt;Δεν αρκεί θεωρώ ούτε μόνο ένας επαγγελματίας προγραμματιστής που δημιουργεί sites ή ένας SEO expert, ούτε βέβαια μπορεί μόνος του ένας επαγγελματίας που θέλει να δημιουργήσει μια ηλεκτρονική παρουσία να το κάνει. Χρειάζεται η συνδυαστική γνώση, η εμπειρία και η συνεργασία και των δύο πλευρών.&lt;/p&gt;
+
+&lt;p&gt;Το βέβαιο είναι ότι πριν ξεκινήσει να δημιουργείται μια νέα ηλεκτρονική παρουσία, καλό είναι να έχει απαντήσει αυτό το ερώτημα σχετικά με το βασικό σετ αναζητήσεων για το οποίο θα παλέψει και το οποίο αν κερδίσει τότε θα έχει φτάσει ένα βήμα πιο κοντά στην επιτυχία.&lt;/p&gt;
+
+&lt;h2 id=&quot;ανταγωνισμός&quot;&gt;Ανταγωνισμός&lt;/h2&gt;
+
+&lt;p&gt;Η μελέτη και ανάλυση του ανταγωνισμού, όσον αφορά τη δημιουργία μιας ηλεκτρονικής παρουσίας ή τη βελτίωση μιας υπάρχουσας είναι ένα ακόμη πολύ σημαντικό συστατικό προς την επιτυχία.&lt;/p&gt;
+
+&lt;p&gt;Η ανάλυση από SEO πλευρά των ανταγωνιστών (γνωστή ως competitive analysis) είναι ένα πολύ ισχυρό εργαλείο που μπορεί να βοηθήσει να επιτευχθούν υψηλότερες θέσεις στην κατάταξη, υψηλότερη κίνηση και περισσότερες μετατροπές (conversions). Η μαγεία της ανάλυσης των ανταγωνιστών επιτυγχάνεται σε ακόμη μεγαλύτερο βαθμό όταν προκύπτουν ευκαιρίες που οι ίδιοι οι ανταγωνιστές αγνοούν.&lt;/p&gt;
+
+&lt;p&gt;Εκτός από τα παραπάνω, είναι κατά τη γνώμη μου ένα σημαντικό στοιχείο καθώς από τους ανταγωνιστές μπορεί να προκύψει η σύνθεση και η δομή της πληροφορίας που θα χρειαστεί μια νέα παρουσία, ο χώρος και οι παίκτες του συγκεκριμένου αντικειμένου, αλλά και -το βασικότερο- θα επιβεβαιώσει την ύπαρξη χώρου και ενδιαφέροντος (market gap), δηλαδή την ευκαιρία να χωρέσει κάτι νέο στην αγορά.&lt;/p&gt;
+
+&lt;p&gt;Η ανάλυση των ανταγωνιστών απαντάει συγκεκριμένες ερωτήσεις όπως:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ποιοί είναι οι πραγματικοί ανταγωνιστές.&lt;/li&gt;
+  &lt;li&gt;Σε τι λέξεις-κλειδιά θα πρέπει να στοχεύσω.&lt;/li&gt;
+  &lt;li&gt;Ποια θέματα θα πρέπει να καλύψω.&lt;/li&gt;
+  &lt;li&gt;Από που μπορώ να πάρω αναφορές (links) προς το περιεχόμενο που θα δημιουργήσω.&lt;/li&gt;
+  &lt;li&gt;Που υπάρχει κενό και πώς μπορώ να νικήσω τους ανταγωνιστές.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Υπάρχουν πολλοί τρόποι που μπορεί να γίνει η ανάλυση του ανταγωνισμού, ωστόσο η βασική ιδέα είναι να βρεις και να αναλύσεις τι δουλεύει για τον ανταγωνισμό (λέξεις-κλειδιά, περιεχόμενο, backlink profile) και να μοχλεύσεις τη γνώση αυτή προς όφελός σου.&lt;/p&gt;
+
+&lt;p&gt;Το πιο βασικό -και πρώτο- βήμα στη διαδικασία είναι η αναγνώριση του ανταγωνισμού.&lt;/p&gt;
+
+&lt;p&gt;Αν και ακούγεται απλό, είναι πολύ σημαντικό να αναγνωριστούν σωστά οι ανταγωνιστές, οι οποίοι μπορεί να είναι μεγάλες εταιρείες αλλά μπορεί και όχι. Οι ανταγωνιστές στο φυσικό κόσμο δεν επίσης βέβαιο ότι είναι και ίδιοι στον ηλεκτρονικό κόσμο. Μικρές εταιρείες ή ακόμη και ερασιτέχνες bloggers ενδεχομένως να κατέχουν τις πιο υψηλές θέσεις στα αποτελέσματα της Google ακόμη κι αν δεν έχουν καθόλου αντικείμενο, δεν δραστηριοποιούνται στον τομέα στον οποίο διακρίνονται ηλεκτρονικά.&lt;/p&gt;
+
+&lt;p&gt;Έχει γίνει ήδη σαφές μέχρι τώρα, ότι η ηλεκτρονική παρουσία και εν πολλοίς τα αποτελέσματα Google είναι στην ουσία μια πρακτική marketing και παροχής πληροφορίας.&lt;/p&gt;
+
+&lt;p&gt;Οι μεγαλύτερες εταιρείες π.χ. διαμονής, πχ Booking.com, Airbnb.com, HomeAway.com αν και κολοσσοί, δεν έχουν ούτε 1 δωμάτιο στην κατοχή τους: απλά διαφημίζουν και διευκολύνουν τις κρατήσεις δωματίων μεταξύ ταξιδιωτών και ξενοδοχείων / ιδιωτών ιδιοκτητών.&lt;/p&gt;
+
+&lt;p&gt;Όπως περιέγραψα προηγουμένως (διάλεξε τις μάχες σου), η εμπειρία μου δείχνει ότι οι μεγάλες εταιρείες τείνουν να επικεντρώνονται στις αναζητήσεις υψηλής κίνησης και στη δημιουργία αναγνώρισης των brands (ώστε για παράδειγμα αν θες να κάνεις μια κράτηση σε ένα ξενοδοχείο να κατευθυνθείς απευθείας σε αυτές παρά στο ίδιο το ξενοδοχείο), οπότε αφήνουν αρκετό χώρο σε μικρότερες επιχειρήσεις, πιο περιορισμένου πεδίου αλλά ταυτόχρονα και πιο εστιασμένου! Επιπλέον, ο ίδιος κατάφερα να νικήσω τους κολοσσούς της διαμονής έχοντας συγκεκριμένη γνώση και παρουσία σε μια μικρή περιοχή: αυτό οι μεγάλες εταιρείες δεν θα το καταφέρουν ποτέ σε τέτοιο βαθμό, παρά μόνο αν το αγοράσουν.&lt;/p&gt;
+
+&lt;p&gt;Η ανάλυση του ανταγωνισμού μπορεί να περιλαμβάνει ένα ή όλα τα παρακάτω:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ανάλυση λέξεων-κλειδιών ανταγωνιστών.&lt;/li&gt;
+  &lt;li&gt;Ανάλυση προφίλ backlinks (links άλλων σελίδων προς τους ανταγωνιστές)&lt;/li&gt;
+  &lt;li&gt;Ανάλυση κενών λέξεων-κλειδιών (keyword gap)&lt;/li&gt;
+  &lt;li&gt;Ανάλυση top περιεχομένου / σελίδων.&lt;/li&gt;
+  &lt;li&gt;Τεχνική ανάλυση website (ταχύτητα, δομή, user experience, user interface).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Για μια βασική ανάλυση του ανταγωνισμού, αρκεί μια σειρά από αναζητήσεις στο Google Search, ωστόσο υπάρχουν και αρκετά εργαλεία, είτε δωρεάν είτε με μια συνδρομή, τα οποία βοηθούν να γίνει η διαδικασία λίγο πιο μεθοδικά και σωστά.&lt;/p&gt;
+
+&lt;p&gt;Τα πιο γνωστά και δημοφιλή από αυτά είναι το ahrefs.com (συνδρομή), το semrush.com (συνδρομή), το moz.com (συνδρομή), το ubersuggest.com (δωρεάν και συνδρομή) και το screamingfrog.com (συνδρομή).&lt;/p&gt;
+
+&lt;p&gt;Ας πούμε ότι θέλουμε να κάνουμε competitor analysis από το δωρεάν εργαλείο Ubersuggest[^6] για το Arahova Pansion, και ξεκινάμε να αναζητήσουμε ανταγωνιστές για τη βασική επιχειρηματική δραστηριότητα που είναι η **διαμονή στην Αράχωβα **(εικ. 2.16).&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.16: Ανάλυση ανταγωνισμού στο Ubersuggest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-16.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Αφού επιλέξουμε τη βασική λέξη-κλειδί και τη χώρα-γλώσσα για τα αποτελέσματα, πατάμε Search και οδηγούμαστε στη σελίδα των αποτελεσμάτων για ιδέες σχετικές με τη βασική αναζήτηση “Αράχωβα διαμονή” (εικ. 2.17). Στον πίνακα με τις λέξεις-κλειδιά υπάρχει ένα βασικό σετ αναζητήσεων με παρόμοιο κίνητρο και σχετικά καλό όγκο αναζητήσεων, επομένως τα αποτελέσματα για αυτές τις λέξεις-κλειδιά θα είναι και αυτά που θα υποδείξουν τους βασικούς ανταγωνιστές.&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.17: Ανάλυση ανταγωνισμού στο Ubersuggest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-17.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Πλέον μπορούμε να πάμε σε κάθε αποτέλεσμα και να κάνουμε click στο κουμπί Search Results για να μας εμφανίσει τους βασικούς παίκτες στη συγκεκριμένη αναζήτηση (εικ. 2.18).&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.18: Ανάλυση ανταγωνισμού στο Ubersuggest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-18.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Στη συγκεκριμένη αναζήτηση “αράχωβα διαμονή” όπως φαίνεται στην εικόνα, οι βασικοί παίκτες κατά σειρά είναι το Booking.com, το Arahova-Pansion.gr, το TripAdvisor.com, το Onparnassos.gr κτλ. Δίπλα σε κάθε ένα αποτέλεσμα υπάρχουν επίσης στοιχεία για το πόση κίνηση λαμβάνει το καθένα από τη συγκεκριμένη αναζήτηση, πόσα backlinks έχει, τι domain authority (αυθεντία ονόματος χώρου), πόσα social shares έχει κτλ.&lt;/p&gt;
+
+&lt;p&gt;Αυτό που θα έπρεπε να κάνει κάποιος εδώ, είναι να επισκεφτεί τα αποτελέσματα ένα προς ένα και να προσπαθήσει να καταναλώσει το περιεχόμενο, να δει αν απαντούν στην ερώτηση - κίνητρο (που να μείνω αν θέλω να ταξιδέψω στην Αράχωβα), να αναλύσει σε τι ποσοστό υπάρχει κείμενο και εικόνες - βίντεο, να προσπαθήσει να κλείσει μια διαμονή σαν να ήθελε πραγματικά να ταξιδέψει, και τελικά, να αξιολογήσει ο ίδιος ποιο άραγε είναι το καλύτερο αποτέλεσμα της λίστας.&lt;/p&gt;
+
+&lt;p&gt;Επίσης, μπορεί να αναλύσει τις βασικές ενότητες περιεχομένου, να βρει πληροφορίες που του φαίνονται εξαιρετικά χρήσιμες ώστε να τις συμπεριλάβει στο δικό του website και να καταγράψει σε ποιους συνδέσμους έκανε click.&lt;/p&gt;
+
+&lt;p&gt;Ξέροντας τους βασικούς ανταγωνιστές, εξαρτάται στη συνέχεια από τον καθένα σε τι βάθος θα θελήσει να φτάσει την έρευνά του.&lt;/p&gt;
+
+&lt;p&gt;Χρησιμοποιώντας ή αναθέτοντας προφανώς καλύτερα επί πληρωμή εργαλεία είναι δυνατόν κάποιος να αποκτήσει πολύ καλή εικόνα για το προφίλ των ανταγωνιστών, τι τεχνολογίες χρησιμοποιούν, να βρει ευκαιρίες και να καταστρώσει ένα σχέδιο με το οποίο θα καταφέρει να κερδίσει υψηλές θέσεις κατάταξης σε καλές λέξεις-κλειδιά και να γίνουν ανταγωνιστικοί.&lt;/p&gt;
+
+&lt;p&gt;Ωστόσο, και μόνο η χρήση του απλού Google Search, μπορεί να βοηθήσει κάποιον να βρει και να μελετήσει τα αποτελέσματα που κυριαρχούν σε μια αναζήτηση η οποία τον ενδιαφέρει.&lt;/p&gt;
+
+&lt;h2 id=&quot;όρισε-την-επιτυχία&quot;&gt;Όρισε την επιτυχία&lt;/h2&gt;
+
+&lt;p&gt;Το τελευταίο βήμα, πριν ξεκινήσει το ταξίδι για μια νέα ηλεκτρονική παρουσία είναι να καθοριστεί το μέγεθος που συνιστά επιτυχία.&lt;/p&gt;
+
+&lt;p&gt;Η επιτυχία θα πρέπει να οριστεί σωστά με ποιοτικά αλλά και με ποσοτικά στοιχεία.&lt;/p&gt;
+
+&lt;p&gt;Για παράδειγμα, δεν αρκεί να θεωρηθεί επιτυχημένη απλά η κατάκτηση της 1η θέσης στα αποτελέσματα Google για μια συγκεκριμένη αναζήτηση, έστω την αναζήτηση “Αράχωβα διαμονή”. Ούτε καν η αυξημένη επισκεψιμότητα από αυτή τη θέση. Προφανώς αυτό θα φέρει κίνηση προς τη συγκεκριμένη σελίδα που βρίσκεται στην κορυφή των αποτελεσμάτων, αλλά αυτό δεν είναι παρά ένα ενδιάμεσο βήμα προς τη μετατροπή (conversion).&lt;/p&gt;
+
+&lt;p&gt;Ένας καλύτερος ορισμός της επιτυχίας για το συγκεκριμένο παράδειγμα θα ήταν “να καταφέρω τουλάχιστον 100 διανυκτερεύσεις το μήνα μέσω της νέας σελίδας”, ή “να μειώσω τις κρατήσεις που γίνονται μέσω τρίτων -και έχουν προμήθεια- κατά 50% (π.χ. Booking) του συνόλου” ή ακόμη και “να αυξήσω τον αριθμό των κρατήσεων κατά 50 το μήνα”.&lt;/p&gt;
+
+&lt;p&gt;Η επισκεψιμότητα και εν συνεχεία η αύξηση της επισκεψιμότητας προς μια σελίδα ή ένα site πρέπει πάντα να συνοδεύεται από μια αύξηση στις μετατροπές (conversions), αλλιώς -συνήθως- είναι χαμένος κόπος. Από αυτό τον κανόνα, εξαιρούνται websites στα οποία η επισκεψιμότητα η ίδια είναι το προϊόν, καθώς πουλάνε μέσω των σελίδων διαφημίσεις ή προβολή επιχειρήσεων κτλ. (π.χ. ειδησεογραφικά site).&lt;/p&gt;
+
+&lt;p&gt;Η επισκεψιμότητα πάντως συνιστά σχεδόν πάντα έναν &lt;strong&gt;δείκτη επιτυχίας της ηλεκτρονικής παρουσίας και προβολής&lt;/strong&gt;. Χωρίς αυτό να σημαίνει ότι και ένα site με μεγάλη επισκεψιμότητα είναι κατ’ ανάγκην και επιτυχημένο επιχειρηματικά.&lt;/p&gt;
+
+&lt;p&gt;Για την πρόβλεψη της επισκεψιμότητας υπάρχουν εργαλεία που υπολογίζουν πόση περίπου κίνηση μπορεί να έχει μια συγκεκριμένη αναζήτηση.&lt;/p&gt;
+
+&lt;p&gt;Το πιο γνωστό από αυτά είναι το &lt;a href=&quot;https://ads.google.com/home/tools/keyword-planner/&quot;&gt;Google Keyword Planner&lt;/a&gt; (εικ. 2.19), το οποίο αναπτύχθηκε από το πρόγραμμα διαφημίσεων της Google προκειμένου να παρέχει μια εκτίμηση του όγκου των αναζητήσεων προτού κάποιος προβεί σε ενεργοποίηση μιας διαφήμισης.&lt;/p&gt;
+
+&lt;p&gt;Στο εργαλείο αυτό, αλλά και σε άλλα αντίστοιχα, μπορεί κάποιος να πάρει μια εκτίμηση του πόσοι θα αναζητήσουν το μήνα μια συγκεκριμένη λέξη-κλειδί και άρα πόσοι θα φτάσουν να δουν τα αποτελέσματα της Google για αυτή την αναζήτηση.&lt;/p&gt;
+
+&lt;p&gt;Εικόνα 2.19: Εκτίμηση όγκου αναζητήσεων - Google Keyword Planner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image2-19.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Αυτό είναι το ανώτατο όριο που η Google εκτιμά ότι θα έπαιρνε κάποιος αν όλοι όσοι αναζητούσαν το συγκεκριμένο όρο επέλεγαν ένα μόνο αποτέλεσμα.&lt;/p&gt;
+
+&lt;p&gt;Αυτό βέβαια είναι αρκετά μακριά από το πόσοι πραγματικά θα διαλέξουν ένα οργανικό αποτέλεσμα ακόμη κι αν βρισκόταν ψηλά στην κατάταξη, καθώς αρκετοί δεν θα κάνουν καν click σε κάποιο σημείο στη σελίδα, κάποιοι θα διαλέξουν ενδεχομένως μια διαφήμιση, κάποιοι θα επιλέξουν ένα άλλο αποτέλεσμα της λίστας κοκ.&lt;/p&gt;
+
+&lt;p&gt;Η μετατροπή ενός click σε οργανικό αποτέλεσμα στη συνέχεια σε πελάτη, εξαρτάται από μια σειρά παραγόντων, πχ. πόσο φιλικό προς το χρήστη και εύκολο είναι να βρει αυτό που ψάχνει, την ταχύτητα των σελίδων, τη δομή κτλ, και επιπλέον διαφέρει και ανά είδος (π.χ. ηλεκτρονικό εμπόριο, τουρισμός, αγορά ακινήτων κτλ).&lt;/p&gt;
+
+&lt;p&gt;Πάντως, μια ενδεικτική τιμή ως βάση για ένα ποσοστό μετατροπής στο μέσο όρο είναι περίπου το 1%, που σημαίνει ότι από τους 100 επισκέπτες μιας σελίδας ο 1 μόνο θα μετατραπεί σε πελάτη!&lt;/p&gt;
+
+&lt;p&gt;Στην πορεία μου έχω συναντήσει αντι-παραδείγματα σε αυτό, στον ορισμό δηλαδή της επιτυχίας, και για το λόγο αυτό επιμένω στο σημείο αυτό.&lt;/p&gt;
+
+&lt;p&gt;Πολλοί μένουν σε προβλέψεις για το τι θέση στην κατάταξη μπορούν να πετύχουν σε μια λέξη-κλειδί, ενώ άλλοι προχωρούν και σε εκτίμηση για την επισκεψιμότητα, εφόσον πετύχουν καλές θέσεις. Αυτά από μόνα τους δεν λένε τίποτα, αν δεν συνοδεύονται από ένα μέγεθος που θα αποτυπώνει την πραγματική ανάγκη μιας ηλεκτρονικής παρουσίας.&lt;/p&gt;
+
+&lt;p&gt;Η ηλεκτρονική παρουσία απαιτεί κόπο, ενέργεια, χρόνο και χρήμα. Και η τελική μετατροπή σε πελάτες είναι αυτή που θα καθορίσει σε τι ποσοστό επιστράφηκαν αυτά που επενδύθηκαν στην ίδια την ηλεκτρονική παρουσία.&lt;/p&gt;
+
+&lt;p&gt;Δυστυχώς ή ευτυχώς, η 1η θέση στα αποτελέσματα Google και η αυξημένη επισκεψιμότητα από μόνα τους δεν μπορούν να επιστρέψουν μέρος των χρημάτων και άρα, ο σωστός ορισμός της επιτυχίας είναι πολύ βασικός για την πορεία της ίδιας της ηλεκτρονικής παρουσίας.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Πράγματα που πρέπει να έχεις υπόψη:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Το να πετύχεις την πρώτη θέση σε ένα αποτέλεσμα αναζήτησης στο Google Search, πιθανώς να μην λέει απολύτως τίποτα, όσον αφορά το δικό σου στόχο.&lt;/li&gt;
+  &lt;li&gt;Το να βρεις τις σωστές λέξεις-στόχους (για μετατροπές) και να καταφέρεις να πάρεις επισκέπτες από αυτές, συνιστά το 50% της επιτυχίας.&lt;/li&gt;
+  &lt;li&gt;Διάβασε καλά τους ανταγωνιστές σου. Σχεδόν πάντα έχουν να σου πουν πράγματα εξαιρετικά χρήσιμα που δεν γνωρίζεις.&lt;/li&gt;
+  &lt;li&gt;Μάθε πριν ξεκινήσεις ένα δικό σου website, πόσους επισκέπτες θα μπορούσες να πάρεις αν ήσουν το καλύτερο και μοναδικό αποτέλεσμα σε μια αναζήτηση. Είναι αυτό για σένα αρκετό;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Δεν χρειάζεσαι τη θέση νο1</summary></entry></feed>
