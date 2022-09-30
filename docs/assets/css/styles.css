@@ -7,6 +7,7 @@
 .markdown-section { padding-bottom: 100px; }
 .markdown-section h1 { line-height: 1.1; }
 .markdown-section pre > code { white-space: break-spaces; }
+.markdown-section blockquote { margin-bottom: 2em; margin-top: 2em; }
 
 .popupContainer { position: fixed; z-index: 2; left: 0; bottom: 0; right: 0; top: 0; overflow: auto; padding: 0 0 100px; }
 .popupContainer .popUpBackground { transition: all 0.3s ease-in-out; position: fixed; left: 0; bottom: 0; right: 0; top: 0; }
