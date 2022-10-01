@@ -1,13 +1,10 @@
 <!DOCTYPE HTML>
 <html lang="en" >
     <head>
-
         {%- include head.html -%}
-
         {% assign reversed_posts = site.posts | reverse %}
-
         {% if reversed_posts %}
-            <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
+          <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
         {% endif %}
     </head>
     <body>
@@ -17,15 +14,15 @@
 
             <div class="book-body">
                 <div class="book-header" role="navigation">
-                    <!-- Title -->
-                    <h1>
-                        <i class="fa fa-circle-o-notch fa-spin"></i>
-                        {% if page.title %}
-                            <a href="." >{{ page.title | escape }}</a>
-                        {% else %}
-                            <a href="." >{{ site.title | escape }}</a>
-                        {% endif %}
-                    </h1>
+                  <!-- iiiTitle -->
+                  <h1>
+                    <i class="fa fa-circle-o-notch fa-spin"></i>
+                    {% if page.title %}
+                      <a href="." >{{ page.title | escape }}</a>
+                    {% else %}
+                      <a href="." >{{ site.title | escape }}</a>
+                    {% endif %}
+                  </h1>
                 </div>
 
                 <div class="body-inner">
