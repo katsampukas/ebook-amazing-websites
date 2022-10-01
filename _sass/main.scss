@@ -1,3 +1,19 @@
+:root {
+  --c-tip: #42b983;
+  --c-tip-bg: #e2f5ec;
+  --c-tip-text: #215d42;
+  --c-tip-title: #359469;
+  --c-warning: #e7c000;
+  --c-warning-bg: rgba(255, 229, 100, .25);
+  --c-warning-text: #6b5900;
+  --c-warning-title: #b29400;
+  --c-danger: #c00;
+  --c-danger-bg: #ffe0e0;
+  --c-danger-text: #600;
+  --c-danger-title: #c00;
+  --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
 ///////////////
 // Navigation
 
@@ -42,6 +58,10 @@
     line-height: 1.1;
   }
 
+  h2 {
+    line-height: 1.2;
+  }
+
   pre > code {
     white-space: break-spaces;
   }
@@ -49,6 +69,19 @@
   blockquote {
     margin-bottom: 2em;
     margin-top: 2em;
+  }
+
+  /* Tips, warnings, and dangers */
+
+  blockquote.block-tip {
+    border-color: var(--c-tip);
+    background-color: var(--c-tip-bg);
+    color: var(--c-tip-text);
+    font-family: var(--font-family);
+
+    > p {
+      padding: 20px 15px;
+    }
   }
 }
 
