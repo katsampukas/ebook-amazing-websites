@@ -42,7 +42,7 @@ exclude:
 
 collections:
   pages:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 destination: ./docs
