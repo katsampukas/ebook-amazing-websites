@@ -21,7 +21,14 @@
           {% endif %}
 
           {{ content }}
-      </section>
+
+          {% if page.layout != 'home' %}
+            <div class="copyright">
+              <div class="left">Γιώργος Κατσιάμπας | katsampukas[at]gmail.com</div>
+              <div class="right">σπουδαία websites: e-book</div>
+            </div>
+          {% endif %}
+        </section>
       </div>
 
       {%- include search.html -%}
