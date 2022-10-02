@@ -6,13 +6,14 @@
 
 .back-to-top { z-index: 1; }
 
-.markdown-section { padding-bottom: 100px; /* Tips, warnings, and dangers */ }
+.markdown-section { padding-bottom: 50px; /* Tips, warnings, and dangers */ }
 .markdown-section h1 { line-height: 1.1; }
 .markdown-section h2 { line-height: 1.2; }
 .markdown-section pre > code { white-space: break-spaces; }
 .markdown-section blockquote { margin-bottom: 2em; margin-top: 2em; }
 .markdown-section blockquote.block-tip { border-color: var(--c-tip); background-color: var(--c-tip-bg); color: var(--c-tip-text); font-family: var(--font-family); }
 .markdown-section blockquote.block-tip > p { padding: 20px 15px; }
+.markdown-section .copyright { display: flex; justify-content: space-between; margin-top: 50px; padding: 10px 0 0; border-top: 1px solid #d1d1d1; font-size: 1.5rem; color: #808080; }
 
 .popupContainer { position: fixed; z-index: 2; left: 0; bottom: 0; right: 0; top: 0; overflow: auto; padding: 0 0 100px; }
 .popupContainer .popUpBackground { transition: all 0.3s ease-in-out; position: fixed; left: 0; bottom: 0; right: 0; top: 0; }
