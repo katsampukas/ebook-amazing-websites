@@ -9,8 +9,8 @@ description: >
 version: 1.0
 gitbook_version: 3.2.3
 
-url: 'https://katsampukas.github.io'
-baseurl: '/ebook-amazing-websites'
+url: 'https://greatwebsites.gr'
+baseurl: ''
 rss: RSS
 
 toc:
