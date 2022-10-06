@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/ebook-amazing-websites/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ebook-amazing-websites/" rel="alternate" type="text/html" /><updated>2022-10-06T11:00:06+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/feed.xml</id><title type="html">Σπουδαία websites!</title><subtitle>Ξεχώρισε από εκατομμύρια αποτελέσματα. Νίκησε τους γίγαντες του internet!
-</subtitle><author><name>Giorgos Katsiampas</name></author><entry><title type="html">Κόστος</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-07-12.cost.html" rel="alternate" type="text/html" title="Κόστος" /><published>2019-05-07T00:00:00+03:00</published><updated>2019-05-07T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/12.cost</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-07-12.cost.html">&lt;p&gt;Έχουμε δει μέχρι τώρα όλα τα σημαντικά βήματα για χτίσει κάποιος ένα σπουδαίο website.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-06T22:48:07+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Σπουδαία websites!</title><subtitle>Ξεχώρισε από εκατομμύρια αποτελέσματα. Νίκησε τους γίγαντες του internet!
+</subtitle><author><name>Giorgos Katsiampas</name></author><entry><title type="html">Κόστος</title><link href="http://localhost:4000/jekyll/2019-05-07-12.cost.html" rel="alternate" type="text/html" title="Κόστος" /><published>2019-05-07T00:00:00+03:00</published><updated>2019-05-07T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/12.cost</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-07-12.cost.html">&lt;p&gt;Έχουμε δει μέχρι τώρα όλα τα σημαντικά βήματα για χτίσει κάποιος ένα σπουδαίο website.&lt;/p&gt;
 
 &lt;p&gt;Που θα αποκτήσει επισκέπτες και πώς θα τους μετατρέψει σε πελάτες.&lt;/p&gt;
 
@@ -71,7 +71,7 @@
 
 &lt;p&gt;Εικόνα 12.1: Αποτελέσματα έρευνας στο πόσο χρεώνουν 111 designers για μοναδική σχεδίαση τυπικού WordPress site 10-15 σελίδων (πηγή: themeisle.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image12-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image12-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εδώ θέλω να κάνω μια &lt;strong&gt;σημαντική παρατήρηση&lt;/strong&gt;!&lt;/p&gt;
 
@@ -168,7 +168,7 @@
 
 &lt;p&gt;Εικόνα 12.2: Κανάλια κρατήσεων του Arahova Pansion. Οι περισσότερες κρατήσεις γίνονται μέσω του επίσημου website της επιχείρησης.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image12-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image12-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Φαίνεται ότι οι περισσότερες κρατήσεις στο Arahova Pansion γίνονται μέσω του επίσημου website της επιχείρησης.&lt;/p&gt;
 
@@ -237,7 +237,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1637486069202-b1163268c240?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1625&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Έχουμε δει μέχρι τώρα όλα τα σημαντικά βήματα για χτίσει κάποιος ένα σπουδαίο website.</summary></entry><entry><title type="html">Επίλογος</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-07-13.closing.html" rel="alternate" type="text/html" title="Επίλογος" /><published>2019-05-07T00:00:00+03:00</published><updated>2019-05-07T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/13.closing</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-07-13.closing.html">&lt;p&gt;Είτε κάποιος σήμερα είναι ένας ελεύθερος επαγγελματίας, είτε είναι ιδιοκτήτης ενός καταστήματος ή μιας μικρής επιχείρησης, ένα σπουδαίο website είναι απαραίτητο για την επιτυχία.&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1637486069202-b1163268c240?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1625&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Έχουμε δει μέχρι τώρα όλα τα σημαντικά βήματα για χτίσει κάποιος ένα σπουδαίο website.</summary></entry><entry><title type="html">Επίλογος</title><link href="http://localhost:4000/jekyll/2019-05-07-13.closing.html" rel="alternate" type="text/html" title="Επίλογος" /><published>2019-05-07T00:00:00+03:00</published><updated>2019-05-07T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/13.closing</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-07-13.closing.html">&lt;p&gt;Είτε κάποιος σήμερα είναι ένας ελεύθερος επαγγελματίας, είτε είναι ιδιοκτήτης ενός καταστήματος ή μιας μικρής επιχείρησης, ένα σπουδαίο website είναι απαραίτητο για την επιτυχία.&lt;/p&gt;
 
 &lt;p&gt;Το ίδιο ισχύει ακόμη και για ερασιτέχνες που ασχολούνται για παράδειγμα με ένα χόμπι, έναν τοπικό σύλλογο, μια οργάνωση.&lt;/p&gt;
 
@@ -336,7 +336,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1620764840976-a6752f359c46?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1047&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Είτε κάποιος σήμερα είναι ένας ελεύθερος επαγγελματίας, είτε είναι ιδιοκτήτης ενός καταστήματος ή μιας μικρής επιχείρησης, ένα σπουδαίο website είναι απαραίτητο για την επιτυχία.</summary></entry><entry><title type="html">Χρησιμοποίησε άλλες πλατφόρμες</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-06-11.optimize-6-use-other-platforms.html" rel="alternate" type="text/html" title="Χρησιμοποίησε άλλες πλατφόρμες" /><published>2019-05-06T00:00:00+03:00</published><updated>2019-05-06T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/11.optimize-6-use-other-platforms</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-06-11.optimize-6-use-other-platforms.html">&lt;p&gt;Καθώς προσπαθούσα για αρκετά χρόνια να βελτιστοποιήσω το &lt;a href=&quot;https://arahova-pansion.gr/&quot; target=&quot;_blank&quot;&gt;arahova-pansion.gr&lt;/a&gt; και να το καταστήσω ένα αναγνωρίσιμο brand, είδα μια σειρά από προσεγγίσεις άλλων επαγγελματιών στο χώρο της διαμονής, όσον αφορά την ηλεκτρονική τους παρουσία, που κάποιες φορές μου έκαναν πολύ μεγάλη εντύπωση.&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1620764840976-a6752f359c46?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1047&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Είτε κάποιος σήμερα είναι ένας ελεύθερος επαγγελματίας, είτε είναι ιδιοκτήτης ενός καταστήματος ή μιας μικρής επιχείρησης, ένα σπουδαίο website είναι απαραίτητο για την επιτυχία.</summary></entry><entry><title type="html">Χρησιμοποίησε άλλες πλατφόρμες</title><link href="http://localhost:4000/jekyll/2019-05-06-11.optimize-6-use-other-platforms.html" rel="alternate" type="text/html" title="Χρησιμοποίησε άλλες πλατφόρμες" /><published>2019-05-06T00:00:00+03:00</published><updated>2019-05-06T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/11.optimize-6-use-other-platforms</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-06-11.optimize-6-use-other-platforms.html">&lt;p&gt;Καθώς προσπαθούσα για αρκετά χρόνια να βελτιστοποιήσω το &lt;a href=&quot;https://arahova-pansion.gr/&quot; target=&quot;_blank&quot;&gt;arahova-pansion.gr&lt;/a&gt; και να το καταστήσω ένα αναγνωρίσιμο brand, είδα μια σειρά από προσεγγίσεις άλλων επαγγελματιών στο χώρο της διαμονής, όσον αφορά την ηλεκτρονική τους παρουσία, που κάποιες φορές μου έκαναν πολύ μεγάλη εντύπωση.&lt;/p&gt;
 
 &lt;p&gt;Οι πιο ψαγμένοι και μεγάλοι παίκτες της περιοχής (επιχειρηματίες) που δραστηριοποιούνταν στην τουριστική βιομηχανία στην περιοχή της Αράχωβας (διαμονή, εστίαση, υπηρεσίες κτλ.) είχαν σχεδόν όλοι το δικό τους website.&lt;/p&gt;
 
@@ -352,7 +352,7 @@
 
 &lt;p&gt;Εικόνα 11.1: Αποτελέσματα αναζήτησης Apollon Inn, ξενοδοχείου στην Αράχωβα. Όλες οι αναφορές είναι σε εξωτερικά sites και πλατφόρμες όπως τα Booking.com, Google My Business κτλ.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Κάποια στιγμή σε αυτή την πορεία της βελτιστοποίησης του site του Arahova Pansion, βλέποντας τις παραπάνω δύο ομάδες ανθρώπων αναρωτήθηκα ποια είναι η καλύτερη προσέγγιση.&lt;/p&gt;
 
@@ -447,7 +447,7 @@
 
 &lt;p&gt;Εικόνα 11.2: Παρουσία επιχείρησης στο Google My Business.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Τέλος, όπως αναφέρθηκε υπάρχει το Facebook, νο1 μέσο κοινωνικής δικτύωσης σήμερα, αλλά και πολλά ακόμα social media με διαφορετική στόχευση, που όμως σχεδόν όλα προσφέρουν υπηρεσίες που είναι πολύ χρήσιμες (και πολύ συχνά η αποκλειστική πηγή) για επιχειρηματικές προσπάθειες.&lt;/p&gt;
 
@@ -523,7 +523,7 @@
 
 &lt;p&gt;Εικόνα 11.3: Η σελίδα “Η γεωγραφία είναι πολύ κουλ” στο Facebook.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Καθώς ήταν ξεκάθαρο για μένα ότι η/ο διαχειριστής της σελίδας “Η γεωγραφία είναι πολύ κουλ” ξεκίνησε αυτή τη σελίδα από ενδιαφέρον για τη γεωγραφία και χόμπι, δε μου φάνηκε καθόλου περίεργο που είχε τόσο μεγάλη επιτυχία: όταν δημιουργείς περιεχόμενο με μεράκι και έχεις ένα σχεδόν ανεξάντλητου μεγέθους κοινό, οι πιθανότητες είναι υπέρ σου. Πολλές φορές, η επιτυχία είναι θέμα χρόνου.&lt;/p&gt;
 
@@ -535,7 +535,7 @@
 
 &lt;p&gt;Εικόνα 11.4: Τα βιβλία της σελίδας “Η γεωγραφία είναι πολύ κουλ” στο Skroutz.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αλλά δεν υπήρχε μια ιδιόκτητη, προσωπική ή εταιρική ιδιόκτητη σελίδα για να αγοράσει κανείς τα βιβλία, να βρει συγκεντρωμένα πληροφορίες για την/τον συγγραφέα, να μάθει για το γκρουπ στο Facebook κτλ.&lt;/p&gt;
 
@@ -545,7 +545,7 @@
 
 &lt;p&gt;Εικόνα 11.5: Τα αποτελέσματα της αναζήτησης “Η γεωγραφία είναι πολύ κουλ” στο Google.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Όλο αυτό δεν είναι καθόλου εύκολο!&lt;/p&gt;
 
@@ -567,7 +567,7 @@
 
 &lt;p&gt;Εικόνα 11.6: Η σελίδα του Skroutz με επιτυχημένα παραδείγματα επιχειρηματιών που χρησιμοποίησαν την πλατφόρμα του Skroutz και μεγάλωσαν τις επιχειρήσεις τους.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Όπως η ιστορία του Άκη Παινεσάκη από τα Χανιά και του Italian Factory Outlet, ενός ανθρώπου που ναι μεν κατάφερε να κατακτήσει τον χώρο της μόδας, με 6 επιτυχημένα καταστήματα ένδυσης, όμως του έλειπε κάτι σημαντικό: η online παρουσία. Χάρη στο Skroutz, οι πωλήσεις των καταστημάτων του απογειώθηκαν, ξεπερνώντας κάθε προσδοκία του.&lt;/p&gt;
 
@@ -587,7 +587,7 @@
 
 &lt;p&gt;Εικόνα 11.7: Κανάλια κρατήσεων του Arahova Pansion. Οι περισσότερες κρατήσεις γίνονται μέσω του επίσημου website της επιχείρησης.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ξέρετε τώρα ποια ιστοσελίδα έχει περισσότερους χρήστες από τα Facebook, το Booking, το Skroutz;&lt;/p&gt;
 
@@ -643,7 +643,7 @@
 
 &lt;p&gt;Εικόνα 11.8: Λογότυπο Google My Business.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Πώς είναι όμως η Google ως τοπικός κατάλογος μικρών επιχειρήσεων;&lt;/p&gt;
 
@@ -677,7 +677,7 @@
 
 &lt;p&gt;Εικόνα 11.9: Λογότυπο Meta for Business.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Η χρήση του Facebook ως επιχειρηματικού καταλόγου θα σας βοηθήσει να προσεγγίσετε πελάτες και να αλληλεπιδράσετε μαζί τους.&lt;/p&gt;
 
@@ -711,7 +711,7 @@
 
 &lt;p&gt;Εικόνα 11.10: Η αρχική σελίδα &lt;a href=&quot;https://merchants.skroutz.gr/merchants&quot;&gt;Skroutz Merchants&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σε κάθε περίπτωση, είτε πρόκειται για μια προσέγγιση που θα στηριχτεί για τις ηλεκτρονικές πωλήσεις αποκλειστικά στο Skroutz, είτε θα το χρησιμοποιήσει ως ένα εργαλείο για να τις ενισχύσει και να έρθει σε επαφή με υποψήφιους πελάτες, η πλατφόρμα του Skroutz μπορεί να αποδειχθεί εξαιρετική για το ηλεκτρονικό εμπόριο και επιχειρείν.&lt;/p&gt;
 
@@ -721,7 +721,7 @@
 
 &lt;p&gt;Εικόνα 11.11: Booking και Airbnb είναι οι κυρίαρχοι παίκτες στην ελληνική αγορά, όσον αφορά τα ταξίδια και τη διαμονή (πηγή: aerobook.gr). \&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εκτός αν η επιχείρηση έχει ένα πολύ δυνατό brand name και έχει καταφέρει να μπορεί να σταθεί χωρίς παρουσία στα Booking ή / και Airbnb, δε νοείται για άλλες περιπτώσεις να μην υπάρχει καταχώρηση σε αυτές τις πλατφόρμες.&lt;/p&gt;
 
@@ -773,7 +773,7 @@
 
 &lt;p&gt;Εικόνα 11.12: Αποτελέσματα αναζήτησης στο Google “secret kitchen and travel”. Το ιδιόκτητο website και η σελίδα του group στο Facebook είναι τα πρώτα αποτελέσματα.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image11-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image11-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Κι αυτό είναι ότι καλύτερο!&lt;/p&gt;
 
@@ -795,7 +795,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1374&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Καθώς προσπαθούσα για αρκετά χρόνια να βελτιστοποιήσω το arahova-pansion.gr και να το καταστήσω ένα αναγνωρίσιμο brand, είδα μια σειρά από προσεγγίσεις άλλων επαγγελματιών στο χώρο της διαμονής, όσον αφορά την ηλεκτρονική τους παρουσία, που κάποιες φορές μου έκαναν πολύ μεγάλη εντύπωση.</summary></entry><entry><title type="html">Πρόθεση επισκεπτών</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-05-10.optimize-5-intention.html" rel="alternate" type="text/html" title="Πρόθεση επισκεπτών" /><published>2019-05-05T00:00:00+03:00</published><updated>2019-05-05T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/10.optimize-5-intention</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-05-10.optimize-5-intention.html">&lt;p&gt;«&lt;em&gt;Σήμερα, οι άνθρωποι δεν ακολουθούν μια γραμμική διαδρομή από τη γνωριμία με ένα προϊόν, στην εκδήλωση ενδιαφέροντος για αυτό και τέλος στην αγορά. &lt;br /&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1374&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Καθώς προσπαθούσα για αρκετά χρόνια να βελτιστοποιήσω το arahova-pansion.gr και να το καταστήσω ένα αναγνωρίσιμο brand, είδα μια σειρά από προσεγγίσεις άλλων επαγγελματιών στο χώρο της διαμονής, όσον αφορά την ηλεκτρονική τους παρουσία, που κάποιες φορές μου έκαναν πολύ μεγάλη εντύπωση.</summary></entry><entry><title type="html">Πρόθεση επισκεπτών</title><link href="http://localhost:4000/jekyll/2019-05-05-10.optimize-5-intention.html" rel="alternate" type="text/html" title="Πρόθεση επισκεπτών" /><published>2019-05-05T00:00:00+03:00</published><updated>2019-05-05T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/10.optimize-5-intention</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-05-10.optimize-5-intention.html">&lt;p&gt;«&lt;em&gt;Σήμερα, οι άνθρωποι δεν ακολουθούν μια γραμμική διαδρομή από τη γνωριμία με ένα προϊόν, στην εκδήλωση ενδιαφέροντος για αυτό και τέλος στην αγορά. &lt;br /&gt;
 Δείχνουν περισσότερο και λιγότερο ενδιαφέρον σε μοναδικές και απρόβλεπτες στιγμές. &lt;br /&gt;
 Οι άνθρωποι στρέφονται στις συσκευές τους για να πάρουν άμεσες απαντήσεις. &lt;br /&gt;
 Και κάθε φορά που το κάνουν, &lt;strong&gt;εκφράζουν την πρόθεσή τους&lt;/strong&gt; και αναδιαμορφώνουν την έννοια του παραδοσιακού μάρκετινγκ&lt;/em&gt;». [&lt;a href=&quot;https://www.thinkwithgoogle.com/consumer-insights/consumer-journey/#/&quot; target=&quot;_blank&quot;&gt;Think with Google&lt;/a&gt;]&lt;/p&gt;
@@ -834,7 +834,7 @@
 
 &lt;p&gt;Εικόνα 10.1: Το παραδοσιακό “ταξίδι πελάτη”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Για παράδειγμα, με ένα μόνο κλικ σε ένα κατάστημα ηλεκτρονικού εμπορίου, βρίσκεστε στο στάδιο της γνώμης - άποψης και σύντομα μεταβαίνετε στη φάση εξέτασης - μελέτης για να κάνετε μια αγορά.&lt;/p&gt;
 
@@ -868,7 +868,7 @@
 
 &lt;p&gt;Εικόνα 10.2: Λειτουργία διαχωρισμού με βάση το κίνητρο της αναζήτησης του Semrush.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ας δούμε όμως πώς θα μπορούσε κάποιος να προσδιορίσει την πρόθεση αναζήτησης και να πετύχει καλύτερη κατάταξη για κάτι που τον ενδιαφέρει, χωρίς να αποκτήσει το Semrush.&lt;/p&gt;
 
@@ -880,7 +880,7 @@
 
 &lt;p&gt;Εικόνα 10.3: Αποτελέσματα Google στην αναζήτηση “κατασκευή ιστοσελίδας”. \&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αρχικά, υπάρχει ένα info box με προτάσεις για αποτελέσματα στα sites Vrisko και Χρυσός Οδηγός, τα οποία είναι sites για προβολή επαγγελματιών και επιχειρήσεων (transactional - πρόθεση συναλλαγής).&lt;/p&gt;
 
@@ -888,7 +888,7 @@
 
 &lt;p&gt;Εικόνα 10.4: Αποτελέσματα Google στην αναζήτηση “κατασκευή ιστοσελίδας”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Πιο κάτω ξεκινούν τα οργανικά αποτελέσματα, και συγκεκριμένα υπάρχει μια σειρά με τα τέσσερα (4) πρώτα από αυτά.&lt;/p&gt;
 
@@ -898,19 +898,19 @@
 
 &lt;p&gt;Εικόνα 10.5: Αποτελέσματα Google στην αναζήτηση “κατασκευή ιστοσελίδας”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στη συνέχεια υπάρχει μια ενότητα με βίντεο από το YouTube. Τα βίντεο αυτά είναι πρακτικά οδηγοί δημιουργίας ιστοσελίδων από τις πλατφόρμες WordPress και Wix (informational - πρόθεση ενημέρωσης).&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 10.6: Αποτελέσματα Google στην αναζήτηση “κατασκευή ιστοσελίδας”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Πιο κάτω είναι τα υπόλοιπα 5 οργανικά αποτελέσματα, 3 από τα οποία αφορούν εταιρείες για ανάθεση εργασιών κατασκευής ιστοσελίδων (transactional - πρόθεση συναλλαγής) και τα 2 αφορούν ενημερωτικούς οδηγούς για το πως μπορεί να μάθει να φτιάχνει κάποιος μόνος του ιστοσελίδες (informational - πρόθεση ενημέρωσης).&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 10.7: Αποτελέσματα Google στην αναζήτηση “κατασκευή ιστοσελίδας”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Τέλος, υπάρχει η ενότητα των συναφών αναζητήσεων, όπου βλέπουμε πως οι 6 από τις 8 αφορούν ανάθεση κατασκευής και οικονομικό ενδιαφέρον για κατασκευή ιστοσελίδας, π.χ. προσφορά, πακέτα, eshop, για ξενοδοχεία κτλ. (transactional - πρόθεση συναλλαγής) και οι 2 αφορούν εκμάθηση και δωρεάν υλοποίηση, προφανώς με μεταφορά του κόστους σε ένα σημείο μετά την κατασκευή (informational - πρόθεση ενημέρωσης).&lt;/p&gt;
 
@@ -981,7 +981,7 @@
 &lt;p&gt;Εικόνα 10.8: Αποτελέσματα Google στην αναζήτηση “arahova pansion”.  &lt;br /&gt;
 Το arahova-pansion.gr κατέχει και την 1η οργανική θέση και το content graph δεξιά αλλά και στο χάρτη.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αν από την άλλη θέλετε να πετύχετε καλή κατάταξη σε ένα ερώτημα πλοήγησης άλλης εταιρείας χωρίς να διαχειρίζεστε το επίσημο site, θα σας πρότεινα να το ξανασκεφτείτε.&lt;/p&gt;
 
@@ -1005,7 +1005,7 @@
 
 &lt;p&gt;Εικόνα 10.9: Content graph στα αποτελέσματα Google στην αναζήτηση “Αράχωβα”. Το περιεχόμενο είναι σε επιμέρους λογικά χωρισμένες ενότητες, όπως “δραστηριότητες”, “διαμονή” κτλ.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ο καλύτερος τρόπος για να στοχεύσετε ενημερωτικές αναζητήσεις είναι με περιεχόμενο υψηλής ποιότητας, που παρέχει πραγματικά χρήσιμες πληροφορίες σχετικές με το ερώτημα.&lt;/p&gt;
 
@@ -1051,7 +1051,7 @@
 
 &lt;p&gt;Εικόνα 10.10: Αποτελέσματα αναζήτησης “αθήνα αράχωβα κτελ” στο Google Search. Το arahova-pansion.gr είναι στην 1η θέση, πάνω κι από τον επίσημο ιστότοπο των ΚΤΕΛ.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Όταν αναγνώρισα την αξία της συγκεκριμένης αναζήτησης, επέλεξα να δημιουργήσω το περιεχόμενο που θα ήταν ανταγωνιστικό για αυτούς που θα το αναζητούσαν, &lt;strong&gt;με βάση απευθείας το κίνητρο πίσω από την αναζήτηση&lt;/strong&gt; αυτή: θέλουν να βρουν γρήγορα ώρες και τιμές δρομολογίων προκειμένου να προγραμματίσουν την εκδρομή τους στην Αράχωβα!&lt;/p&gt;
 
@@ -1065,7 +1065,7 @@
 
 &lt;p&gt;Εικόνα 10.11: Σελίδα για δρομολόγια ΚΤΕΛ στο arahova-pansion.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αυτό που έκανα μετά από αυτές τις βασικές πληροφορίες, για τις οποίες οι επισκέπτες μου είχαν κάνει click εξαρχής, ήταν να προσθέσω ένα άλλο κουμπί για αναζήτηση διαμονής στο Arahova Pansion, εφόσον το επιθυμούν, αλλά και μια λειτουργικότητα για αναζήτηση διαμονής στην Αράχωβα μέσω της πλατφόρμας Booking.&lt;/p&gt;
 
@@ -1087,7 +1087,7 @@
 
 &lt;p&gt;Εικόνα 10.12: Προτάσεις συμπλήρωσης αναζήτησης “iphone 13” στο Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σε όλα αυτά τα παραδείγματα, μπορείτε να καταλάβετε ότι ο χρήστης σκέφτεται να κάνει μια αγορά στο κοντινό μέλλον, εάν δεν έχει ήδη βγάλει την πιστωτική του κάρτα.&lt;/p&gt;
 
@@ -1103,7 +1103,7 @@
 
 &lt;p&gt;Εικόνα 10.13: Διαφημιζόμενοι στον όρο αναζήτησης “iphone 13” στο Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image10-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image10-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αυτά τα είδη ερωτημάτων είναι συνήθως πιθανό να προσφέρουν μια καλή απόδοση επένδυσης (ROI) στην πληρωμένη αναζήτηση.&lt;/p&gt;
 
@@ -1175,11 +1175,11 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1523875194681-bedd468c58bf?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1471&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">«Σήμερα, οι άνθρωποι δεν ακολουθούν μια γραμμική διαδρομή από τη γνωριμία με ένα προϊόν, στην εκδήλωση ενδιαφέροντος για αυτό και τέλος στην αγορά. Δείχνουν περισσότερο και λιγότερο ενδιαφέρον σε μοναδικές και απρόβλεπτες στιγμές. Οι άνθρωποι στρέφονται στις συσκευές τους για να πάρουν άμεσες απαντήσεις. Και κάθε φορά που το κάνουν, εκφράζουν την πρόθεσή τους και αναδιαμορφώνουν την έννοια του παραδοσιακού μάρκετινγκ». [Think with Google]</summary></entry><entry><title type="html">Backlinks</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-04-9.optimize-4-backlinks.html" rel="alternate" type="text/html" title="Backlinks" /><published>2019-05-04T00:00:00+03:00</published><updated>2019-05-04T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/9.optimize-4-backlinks</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-04-9.optimize-4-backlinks.html">&lt;p&gt;Ο τρόπος που πλοηγούμαστε στο internet, πηγαίνοντας από σελίδα σε σελίδα μέχρι να καταλήξουμε σε εκείνη που θα μας δώσει τις απαντήσεις που ψάχνουμε, είναι με το να κλικάρουμε τους υπερσυνδέσμους, ή hyperlinks.&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1523875194681-bedd468c58bf?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1471&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">«Σήμερα, οι άνθρωποι δεν ακολουθούν μια γραμμική διαδρομή από τη γνωριμία με ένα προϊόν, στην εκδήλωση ενδιαφέροντος για αυτό και τέλος στην αγορά. Δείχνουν περισσότερο και λιγότερο ενδιαφέρον σε μοναδικές και απρόβλεπτες στιγμές. Οι άνθρωποι στρέφονται στις συσκευές τους για να πάρουν άμεσες απαντήσεις. Και κάθε φορά που το κάνουν, εκφράζουν την πρόθεσή τους και αναδιαμορφώνουν την έννοια του παραδοσιακού μάρκετινγκ». [Think with Google]</summary></entry><entry><title type="html">Backlinks</title><link href="http://localhost:4000/jekyll/2019-05-04-9.optimize-4-backlinks.html" rel="alternate" type="text/html" title="Backlinks" /><published>2019-05-04T00:00:00+03:00</published><updated>2019-05-04T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/9.optimize-4-backlinks</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-04-9.optimize-4-backlinks.html">&lt;p&gt;Ο τρόπος που πλοηγούμαστε στο internet, πηγαίνοντας από σελίδα σε σελίδα μέχρι να καταλήξουμε σε εκείνη που θα μας δώσει τις απαντήσεις που ψάχνουμε, είναι με το να κλικάρουμε τους υπερσυνδέσμους, ή hyperlinks.&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 9.1: Backlink είναι ένας υπερσύνδεσμος από μια σελίδα στο internet προς κάποια άλλη (πηγή: backlinko.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Το γεγονός αυτό από μόνο του θα ήταν εξαιρετικά σημαντικό, καθώς όσο περισσότερα links άλλων σελίδων υπάρχουν προς μια σελίδα μας, τόσο περισσότερο πιθανό είναι για να το πατήσει κάποιος και να μεταφερθεί σε αυτή.&lt;/p&gt;
 
@@ -1235,7 +1235,7 @@
 
 &lt;p&gt;Εικόνα 9.2: Page authority score του Skroutz.gr στο Semrush.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Η έννοια της αυθεντίας όπως είναι φυσικό αφορά τόσο μεμονωμένες σελίδες, όσο και γενικότερα ένα τομέα χώρου, δηλαδή ένα ολόκληρο site.&lt;/p&gt;
 
@@ -1312,7 +1312,7 @@
 
 &lt;p&gt;Εικόνα 9.3: Ενότητα backlinks στο Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Δεδομένου ότι όπως είδαμε, τα πολλά, διαφορετικά και ποιοτικά links από sites με καλό προφίλ είναι ένα σήμα για την Google ότι οι σελίδες και το site στο οποίο οδηγούν έχει αξία και άρα θα πρέπει να εμφανίζεται ψηλότερα στα αποτελέσματά της, η ενότητα των Links στο Search Console είναι αρκετά σημαντική.&lt;/p&gt;
 
@@ -1361,13 +1361,13 @@
 
 &lt;p&gt;Εικόνα 9.4: Εικόνα πύργος ώρας Αράχωβας (πηγή arahova-pansion.gr).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αυτές οι εικόνες αναδημοσίευτηκαν σε πολλά άλλα υψηλής εγκυρότητας sites κερδίζοντας πολλά ποιοτικά backlinks, καθώς μέχρι τη στιγμή εκείνη δεν υπήρχε κάτι αντίστοιχα καλό, και σήμερα η συγκεκριμένη σελίδα είναι 1η στα αποτελέσματα αναζήτησης για το “ρολόι αράχωβας”.&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 9.5: 1η θέση του arahova-pansion.gr στην σχετική αναζήτηση για τον πύργο ώρας της Αράχωβας.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σήμερα πιστεύω ότι η σελίδα μου αυτή θα ήταν 1η ακόμη και χωρίς τα οπτικά αυτά στοιχεία, καθώς είναι το πιο σε βάθος και αξιόπιστο αποτέλεσμα για πληροφορίες σχετικές με τον πύργο ώρας της Αράχωβας, ωστόσο το περιεχόμενο αυτό έτυχε μεγάλης αποδοχής επειδή συνοδευόταν από ποιοτικές πρωτότυπες εικόνες.&lt;/p&gt;
 
@@ -1393,7 +1393,7 @@
 
 &lt;p&gt;Εικόνα 9.6: Σελίδα πρωτότυπου περιεχομένου σχετικά με τους παράγοντες κατάταξης του Google Search από το Backlinko.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Η συγκεκριμένη σελίδα έχει λάβει, σύμφωνα με το Backlinko, 19 χιλιάδες backlinks και έχει αναφερθεί σε πάρα πολλές αναφορές, τόσο εντός όσο και εκτός internet.&lt;/p&gt;
 
@@ -1480,7 +1480,7 @@
 
 &lt;p&gt;Εικόνα 9.7: Authority sites για την αναζήτηση “Κετογονική δίαιτα”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στη συνέχεια, αφού βρούμε τους συγγραφείς των συγκεκριμένων άρθρων (συνήθως αναφέρονται μέσα στα άρθρα), μπορούμε να αναζητήσουμε τα email τους, ή να στείλουμε μέσω της σελίδας επικοινωνίας των sites ένα email, υπόψιν των εκάστοτε ατόμων. Επίσης, μπορούμε να τους αναζητήσουμε στα social media και να τους στείλουμε εκεί το μήνυμά μας.&lt;/p&gt;
 
@@ -1492,7 +1492,7 @@
 
 &lt;p&gt;Εικόνα 9.8: Αποτελέσματα στοιχείων επικοινωνίας συγγραφέα άρθρου για την Κετογονική δίαιτα.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στη συνέχεια, μπορείτε να συντάξετε ένα σύντομο και εύστοχο email όπου θα αναφέρετε τι ακριβώς προσφέρει το δικό σας περιεχόμενο σε σχέση με το περιεχόμενο του παραλήπτη και για ποιους λόγους θα μπορούσε να σκεφτεί να το προσθέσει, έστω και σαν απλή αναφορά.&lt;/p&gt;
 
@@ -1522,7 +1522,7 @@
 
 &lt;p&gt;Εικόνα 9.9: Αξιολόγηση domain arahova.net από το ahrefs.com: 56 backlinks από 30 domains είναι νεκρά, λόγω της διακοπής λειτουργίας του arahova.net.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Βλέπω ότι υπάρχουν 30 τομείς που έχουν 56 backlinks προς το arahova.net.&lt;/p&gt;
 
@@ -1532,7 +1532,7 @@
 
 &lt;p&gt;Εικόνα 9.10: Backlinks που μπορώ να διεκδικήσω για το arahova-pansion.gr από το arahova.net, το οποίο σταμάτησε τη λειτουργία του.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εδώ θα μπορούσα είτε να επικοινωνήσω με τα sites αυτά και να τους υποδείξω ότι οι σύνδεσμοί τους προς το arahova.net δεν λειτουργούν πια κι ότι υπάρχει η εναλλακτική με ίδιο ή αντίστοιχο περιεχόμενο στο δικό μου site arahova-pansion.gr.&lt;/p&gt;
 
@@ -1574,7 +1574,7 @@
 
 &lt;p&gt;Εικόνα 9.11: Η ιστορία του Τζιν, μια σελίδα που έκανε τη διαφορά και απέκτησε πολλά ποιοτικά backlinks, από τον Matt Lawry στην Αυστραλία.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image9-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image9-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Φυσικά, δεν έκατσε και περίμενε να εμφανιστούν οι σύνδεσμοι από μόνοι τους.&lt;/p&gt;
 
@@ -1618,7 +1618,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1488272690691-2636704d6000?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1467&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Ο τρόπος που πλοηγούμαστε στο internet, πηγαίνοντας από σελίδα σε σελίδα μέχρι να καταλήξουμε σε εκείνη που θα μας δώσει τις απαντήσεις που ψάχνουμε, είναι με το να κλικάρουμε τους υπερσυνδέσμους, ή hyperlinks.</summary></entry><entry><title type="html">Ταχύτητα</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-03-8.optimize-3-speed.html" rel="alternate" type="text/html" title="Ταχύτητα" /><published>2019-05-03T00:00:00+03:00</published><updated>2019-05-03T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/8.optimize-3-speed</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-03-8.optimize-3-speed.html">&lt;p&gt;Όταν κάθεστε να φάτε σε ένα εστιατόριο ή πάτε σε ένα καφέ, αν ο σερβιτόρος αργεί να σας εξυπηρετήσει, αυτό συνήθως σας δυσαρεστεί και καταλήγετε να μην περνάτε ωραία, που είναι ο λόγος για τον οποίο πήγατε εξαρχής στο κατάστημα.&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1488272690691-2636704d6000?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1467&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Ο τρόπος που πλοηγούμαστε στο internet, πηγαίνοντας από σελίδα σε σελίδα μέχρι να καταλήξουμε σε εκείνη που θα μας δώσει τις απαντήσεις που ψάχνουμε, είναι με το να κλικάρουμε τους υπερσυνδέσμους, ή hyperlinks.</summary></entry><entry><title type="html">Ταχύτητα</title><link href="http://localhost:4000/jekyll/2019-05-03-8.optimize-3-speed.html" rel="alternate" type="text/html" title="Ταχύτητα" /><published>2019-05-03T00:00:00+03:00</published><updated>2019-05-03T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/8.optimize-3-speed</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-03-8.optimize-3-speed.html">&lt;p&gt;Όταν κάθεστε να φάτε σε ένα εστιατόριο ή πάτε σε ένα καφέ, αν ο σερβιτόρος αργεί να σας εξυπηρετήσει, αυτό συνήθως σας δυσαρεστεί και καταλήγετε να μην περνάτε ωραία, που είναι ο λόγος για τον οποίο πήγατε εξαρχής στο κατάστημα.&lt;/p&gt;
 
 &lt;p&gt;Στην περίπτωση που η ενόχληση είναι αρκετά μεγάλη η επίσκεψη αυτή μπορεί να συνοδευτεί και από μια αρνητική κριτική για το κατάστημα σε υπηρεσίες όπως το Google Business και το Tripadvisor, προκειμένου να διαβάσουν κι άλλοι υποψήφιοι πελάτες την εμπειρία σας και να αποθαρρυνθούν από το να το επιλέξουν.&lt;/p&gt;
 
@@ -1662,7 +1662,7 @@
 
 &lt;p&gt;Εικόνα 8.1: Κάθε 100ms αύξηση στην ταχύτητα φόρτωσης των σελίδων του Ebay προκαλεί αύξηση κατά 0,5% στο ποσοστό προσθήκης προϊόντων στο καλάθι (πηγή: ebay.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Η καθυστέρηση στην απόδοση φόρτωσης μιας ιστοσελίδας δεν αποτελεί σήμερα απλά επιλογή.&lt;/p&gt;
 
@@ -1731,7 +1731,7 @@
 
 &lt;p&gt;Εικόνα 8.2: Core Web Vitals.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Largest Contentful Paint (LCP) - ζωγράφισμα μεγαλύτερης περιοχής περιεχομένου&lt;/strong&gt;: μετρά την ταχύτητα φόρτωσης. &lt;br /&gt;
@@ -1772,7 +1772,7 @@
 
 &lt;p&gt;Εικόνα 8.3: Αρχική οθόνη σεταρίσματος site στο Chrome UX Report.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εάν υπάρχει το όνομα προέλευσης (domain), θα μεταφερθείτε στη σελίδα σχήματος για τον πίνακα ελέγχου.&lt;/p&gt;
 
@@ -1782,7 +1782,7 @@
 
 &lt;p&gt;Εικόνα 8.4: Σελίδα πεδίων δεδομένων Chrome UX Report.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αυτό ήταν.&lt;/p&gt;
 
@@ -1792,7 +1792,7 @@
 
 &lt;p&gt;Εικόνα 8.5: Αναφορά Chrome UX Report για το site arahova-pansion.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στην αριστερή στήλη υπάρχει ένα menu πλοήγησης για κάθε ένα Web Vital χωριστά, ενώ η 1η επιλογή είναι τα 3 βασικά Web Vitals: LCP, FID, CLS.&lt;/p&gt;
 
@@ -1800,13 +1800,13 @@
 
 &lt;p&gt;Εικόνα 8.6: Αναφορά LCP Chrome UX Report για το site arahova-pansion.gr: το LCP χρειάζεται βελτίωση.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Μπορώ να δω περισσότερες λεπτομέρειες για τη μετρική αυτή αν επιλέξω από το menu αριστερά το Largest Contentful Page (LCP), όπου θα δω την εξέλιξη του LCP στο χρόνο και επίσης μπορώ να επιλέξω μεταξύ των smartphone - laptop - desktop αν θέλω να δω περαιτέρω πληροφορίες για το που ακριβώς το arahova-pansion.gr χρειάζεται βελτίωση.&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 8.7: Επιμέρους αναφορά LCP Chrome UX Report ανά μήνα για το site arahova-pansion.gr: το LCP χρειάζεται βελτίωση αν και παρουσιάζει βελτίωση από τον 02/2021.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Με τον τρόπο αυτό, κάποιος χωρίς να έχει καθόλου τεχνικές γνώσεις μπορεί να δει την απόδοση του site του σε σχέση με τα Core Web Vitals και να αποφασίσει αν χρειάζεται να αναθέσει σε κάποιον ειδικό μια εργασία βελτίωσης της απόδοσης.&lt;/p&gt;
 
@@ -1822,7 +1822,7 @@
 
 &lt;p&gt;Εικόνα 8.8: Βασική σελίδα παρακολούθησης Core Vitals στο Google Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Από τα γραφήματα μπορώ να δω ότι για το arahova-pansion.gr υπάρχουν 89 URLs (σελίδες) που μπορούν να βελτιωθούν. Επίσης δεν υπάρχουν σελίδες με καλή και σελίδες με κακή απόδοση με βάση τα Web Vitals.&lt;/p&gt;
 
@@ -1830,7 +1830,7 @@
 
 &lt;p&gt;Εικόνα 8.9: Σελίδα παρακολούθησης Core Web Vitals σε κινητές συσκευές στο Google Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στη σελίδα αυτή βλέπουμε την εξέλιξη απόδοσης σε κινητές συσκευές των σελίδων στο χρόνο ανάλογα με το χαρακτηρισμό τους ως καλές, χρειάζονται βελτίωση και κακές. Στο συγκεκριμένο παράδειγμα του arahova-pansion.gr και οι 89 σελίδες χρήζουν βελτίωσης, όπως είχαμε δει και από την προηγούμενη οθόνη.&lt;/p&gt;
 
@@ -1842,7 +1842,7 @@
 
 &lt;p&gt;Εικόνα 8.10: Σελίδα παρακολούθησης LCP Web Vital σε κινητές συσκευές στο Google Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Και σε αυτό το εργαλείο, όπως και στο προηγούμενο, μπορεί κάποιος χωρίς να διαθέτει τεχνικές γνώσεις να καταλάβει πόσο καλό είναι το site του από πλευράς ταχύτητας και απόδοσης στους επισκέπτες του και να δρομολογήσει, εφόσον το επιθυμεί μια εργασία βελτιστοποίησης σε συγκεκριμένα τμήματα του site, αλλά και για συγκεκριμένες μετρικές (ταχύτητα, αλληλεπίδραση, σταθερότητα).&lt;/p&gt;
 
@@ -1860,7 +1860,7 @@
 
 &lt;p&gt;Εικόνα 8.11: Αρχική σελίδα αξιολόγησης PageSpeed Insights.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Το εργαλείο αναλαμβάνει να αναλύσει την συγκεκριμένη σελίδα.&lt;/p&gt;
 
@@ -1872,7 +1872,7 @@
 
 &lt;p&gt;Εικόνα 8.12: Σελίδα αξιολόγησης PageSpeed Insights.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αρχικά υπάρχει η επιλογή να διαλέξει κάποιος το συγκεκριμένο URL (αυτό το URL) ή να δει τα συγκεντρωτικά στοιχεία για όλο το site (προέλευση). Αφήνω την προεπιλογή για το συγκεκριμένο URL μιας κι έχω ήδη δει την γενική κατάσταση από τα 2 προηγούμενα εργαλεία.&lt;/p&gt;
 
@@ -1882,7 +1882,7 @@
 
 &lt;p&gt;Εικόνα 8.13: Σελίδα αξιολόγησης Web Vitals PageSpeed Insights.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Φαίνεται πως η σελίδα χρειάζεται βελτίωση στο LCP καθώς βρίσκεται στην πορτοκαλί ζώνη, και το μεγαλύτερο τμήμα της οθόνης “ζωγραφίζεται” στις κινητές συσκευές μετά από 3,2 δευτερόλεπτα.&lt;/p&gt;
 
@@ -1894,7 +1894,7 @@
 
 &lt;p&gt;Εικόνα 8.14: Σελίδα αξιολόγησης Web Vitals PageSpeed Insights.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ακόμη πιο κάτω είναι περισσότερο λεπτομερή στοιχεία για τους λόγους για τους οποίους βαθμολογήθηκε έτσι η σελίδα αλλά και ευκαιρίες που υπάρχουν προκειμένου να βελτιωθεί.&lt;/p&gt;
 
@@ -1904,7 +1904,7 @@
 
 &lt;p&gt;Εικόνα 8.15: Σελίδα διαγνωστικών στοιχείων και ευκαιριών Web Vitals PageSpeed Insights.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σε κάθε μια ευκαιρία μπορεί κανείς να κλικάρει ώστε να δει περισσότερες λεπτομέρειες, και επίσης στα δεξιά κάθε ευκαιρίας παρουσιάζεται και κατά προσέγγιση πόσο θα μπορούσε να κερδίσει η σελίδα εφόσον υλοποιούταν η συγκεκριμένη ευκαιρία.&lt;/p&gt;
 
@@ -1912,13 +1912,13 @@
 
 &lt;p&gt;Εικόνα 8.16: Ευκαιρίες εικόνων PageSpeed Insights για τη σελίδα του arahova-pansion.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-16.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-16.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εάν επιλέξω να δω τα διαγνωστικά στοιχεία και τις ευκαιρίες για το συγκεκριμένο πρόβλημα που χρήζει βελτίωσης, δηλαδή το LCP, βλέπω τα στοιχεία της παρακάτω εικόνας, όπου φαίνεται ότι η σελίδα είναι αρκετά βαριά (3.218KB), το κείμενο δεν είναι άμεσα ορατό λόγω της χρήσης συγκεκριμένων γραμματοσειρών ενώ ευκαιρίες βελτίωσης αποτελούν η μείωση στοιχείων Javascript και CSS που δεν χρησιμοποιείται στη συγκεκριμένη σελίδα και η εξάλειψη πόρων που αποκλείουν την απόδοση.&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 8.17: Διαγνωστικά και ευκαιρίες LCP για τη σελίδα του arahova-pansion.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image8-17.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image8-17.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ξέροντας αυτά, θα μπορούσα να αναθέσω σε κάποιον τη συγκεκριμένη εργασία και θα μπορούσα να παρακολουθήσω την πρόοδό της (στο ερώτημα γιατί δεν το φτιάχνω ο ίδιος, μιας και γνωρίζω και τι φταίει και πώς να το βελτιώσω, προς το παρόν μπορώ απλά να δικαιολογηθώ λέγοντας ότι δεν έχω βρει ακόμη το χρόνο να το κάνω 🙂).&lt;/p&gt;
 
@@ -1964,7 +1964,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1498084393753-b411b2d26b34?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1632&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Όταν κάθεστε να φάτε σε ένα εστιατόριο ή πάτε σε ένα καφέ, αν ο σερβιτόρος αργεί να σας εξυπηρετήσει, αυτό συνήθως σας δυσαρεστεί και καταλήγετε να μην περνάτε ωραία, που είναι ο λόγος για τον οποίο πήγατε εξαρχής στο κατάστημα.</summary></entry><entry><title type="html">User experience</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-02-7.optimize-2-user-experience.html" rel="alternate" type="text/html" title="User experience" /><published>2019-05-02T00:00:00+03:00</published><updated>2019-05-02T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/7.optimize-2-user-experience</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-02-7.optimize-2-user-experience.html">&lt;p&gt;Φανταστείτε ότι περπατάτε σε μια άγνωστη πόλη για να φτάσετε σε ένα σημαντικό ραντεβού.&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1498084393753-b411b2d26b34?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1632&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Όταν κάθεστε να φάτε σε ένα εστιατόριο ή πάτε σε ένα καφέ, αν ο σερβιτόρος αργεί να σας εξυπηρετήσει, αυτό συνήθως σας δυσαρεστεί και καταλήγετε να μην περνάτε ωραία, που είναι ο λόγος για τον οποίο πήγατε εξαρχής στο κατάστημα.</summary></entry><entry><title type="html">User experience</title><link href="http://localhost:4000/jekyll/2019-05-02-7.optimize-2-user-experience.html" rel="alternate" type="text/html" title="User experience" /><published>2019-05-02T00:00:00+03:00</published><updated>2019-05-02T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/7.optimize-2-user-experience</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-02-7.optimize-2-user-experience.html">&lt;p&gt;Φανταστείτε ότι περπατάτε σε μια άγνωστη πόλη για να φτάσετε σε ένα σημαντικό ραντεβού.&lt;/p&gt;
 
 &lt;p&gt;Περπατάτε μέσα από διάφορους δρόμους και γειτονιές, τα οποία βλέπετε για πρώτη φορά, ακολουθώντας διάφορες ταμπέλες και σήμανση που βλέπετε μπροστά σας.&lt;/p&gt;
 
@@ -1990,7 +1990,7 @@
 
 &lt;p&gt;Εικόνα 7.1: UI - UX (πηγή: indiehackers.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στο παράδειγμα της παραπάνω εικόνας φαίνονται 2 συσκευασίες κέτσαπ. Η αριστερή εικόνα είναι πιο θελκτική, ένα γυάλινο μπουκάλι με ωραίο σχήμα που ανοίγει από πάνω. Η δεξιά εικόνα είναι ένα πλαστικό - εύκαμπτο μπουκάλι που ανοίγει από κάτω. Όχι τόσο ωραίο όσο το γυάλινο, δε συμφωνείτε;&lt;/p&gt;
 
@@ -2008,11 +2008,11 @@
 
 &lt;p&gt;Εικόνα 7.2: Ενδιαφέρον για το UX την τελευταία δεκαετία (πηγή: trends.google.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 7.3: Ενδιαφέρον για το Marketing την τελευταία δεκαετία (πηγή: trends.google.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Το UX είναι τόσο σημαντικό ώστε το LinkedIn το κατέταξε το 2020 ως την 5η σημαντικότερη δεξιότητα που χρειάζονται οι εταιρείες για νέους εργαζομένους τους.&lt;/p&gt;
 
@@ -2036,7 +2036,7 @@
 
 &lt;p&gt;Εικόνα 7.4: Το εξώφυλλο του Don’t make me think του Steve Krug (πηγή: boagworld.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σύμφωνα με την κεντρική ιδέα του βιβλίου, κάτι μπορεί να χρησιμοποιηθεί εάν ένας μέσος άνθρωπος μπορεί να καταλάβει πώς να το χρησιμοποιήσει για να πετύχει ένα αποτέλεσμα, &lt;strong&gt;χωρίς να καταβάλλει μεγαλύτερο κόπο από ό,τι θα άξιζε ή θα έπρεπε&lt;/strong&gt;.&lt;/p&gt;
 
@@ -2079,7 +2079,7 @@
 
 &lt;p&gt;Εικόνα 7.5: Η κεντρική σελίδα του Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Δεν πρέπει λοιπόν κανείς να απαιτεί πολλά από τον χρήστη.&lt;/p&gt;
 
@@ -2093,7 +2093,7 @@
 
 &lt;p&gt;Εικόνα 7.6: Απλότητα προϊόντων (πηγή: Eric Burke, stuffthathappens.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Τα πιο σημαντικά πράγματα που πρέπει να κάνει κάποιος που θέλει να δημιουργήσει κάτι στο internet, κατά τη γνώμη μου, είναι αρχικά να μάθει περισσότερα για το UX μέσα από βιβλία, άρθρα στο internet, video, blogs κ.α.&lt;/p&gt;
 
@@ -2169,7 +2169,7 @@
 
 &lt;p&gt;Εικόνα 7.7: Breadcrumbs στο Skroutz.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Η &lt;strong&gt;διασύνδεση από το περιεχόμενο των σελίδων&lt;/strong&gt; (π.χ. ένας σύνδεσμος σε μια λέξη στη ροή ενός κειμένου) είναι ένα σημαντικό, αν και όχι καθαυτό εργαλείο πλοήγησης.&lt;/p&gt;
 
@@ -2195,7 +2195,7 @@
 
 &lt;p&gt;Εικόνα 7.8: Τα βέλη μπορούν να βοηθήσουν πολύ στο να αντιληφθούν οι επισκέπτες μιας σελίδας τη λειτουργία ενός συνδέσμου πλοήγησης.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Δεν έχει νόημα να δημιουργήσετε ένα καλά δομημένο μενού πλοήγησης, εάν το μόνο που πρόκειται να κάνετε είναι να το κρύψετε από τους επισκέπτες.&lt;/p&gt;
 
@@ -2231,7 +2231,7 @@
 
 &lt;p&gt;Εικόνα 7.9: Αναδυόμενο μενού κεντρικής πλοήγησης grandmama.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Πρέπει ακόμη να γίνει ξεκάθαρη η διαφοροποίηση μεταξύ πλοήγησης και παροτρύνσεων για δράση.&lt;/p&gt;
 
@@ -2346,11 +2346,11 @@
 
 &lt;p&gt;Εικόνα 7.10: Αναδυόμενο μενού κεντρικής πλοήγησης ebay.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 7.11: Αναδυόμενο μενού κεντρικής πλοήγησης asos.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Να υποδεικνύετε πάντα σε ποιο σημείο του site βρίσκεται κάθε σελίδα (π.χ. χρήση breadcrumbs ή πιο έντονης γραμματοσειράς στον σύνδεσμο της σελίδας στην οποία βρίσκεται ο επισκέπτης).&lt;/p&gt;
 
@@ -2370,7 +2370,7 @@
 
 &lt;p&gt;Εικόνα 7.12: Μενού κεντρικής πλοήγησης arahova-pansion.gr. Οι βασικές σελίδες είναι 1 click μακριά από κάθε περιοχή του site, ενώ όλες οι σελίδες βρίσκονται μέχρι 2 click μακριά.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Συνοψίζοντας, διαλέξτε τις βασικές σελίδες του site σας, αυτές θα πρέπει να βρίσκονται στο βασικό μενού πλοήγησης.&lt;/p&gt;
 
@@ -2430,7 +2430,7 @@
 
 &lt;p&gt;Εικόνα 7.13: Κεντρική σελίδα Nissan.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ήταν αυτό που περιμένατε;&lt;/p&gt;
 
@@ -2502,7 +2502,7 @@
 
 &lt;p&gt;Εικόνα 7.14: Ένα ανθρώπινο πρόσωπο που μας κοιτάζει, προκαλεί την προσοχή μας (πηγή: unsplash.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εκτός από κινούμενα σχέδια και εικόνες ανθρώπινων προσώπων, κάτι που μπορεί να κεντρίσει την προσοχή είναι επίσης &lt;strong&gt;ζωηρά χρώματα και μεγάλες φωτογραφίες&lt;/strong&gt;.&lt;/p&gt;
 
@@ -2564,7 +2564,7 @@
 
 &lt;p&gt;Εικόνα 7.16: Above the fold τμήμα εφημερίδας (πηγή: epicnine.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image7-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image7-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στο περιβάλλον των ηλεκτρονικών υπολογιστών, smartphones, tablets κα. “above the fold” θεωρείται εκείνο το τμήμα της σελίδας που βλέπουν οι επισκέπτες ανοίγοντας τη σελίδα από τη συσκευή τους, χωρίς να σκρολάρουν καθόλου.&lt;/p&gt;
 
@@ -2595,7 +2595,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1508921340878-ba53e1f016ec?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1170&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Φανταστείτε ότι περπατάτε σε μια άγνωστη πόλη για να φτάσετε σε ένα σημαντικό ραντεβού.</summary></entry><entry><title type="html">Search engines (μηχανές αναζήτησης)</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-01-5.search-engines.html" rel="alternate" type="text/html" title="Search engines (μηχανές αναζήτησης)" /><published>2019-05-01T00:00:00+03:00</published><updated>2019-05-01T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/5.search-engines</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-01-5.search-engines.html">&lt;p&gt;Μπορείς να ζήσεις χωρίς να αναζητήσεις οποιαδήποτε πληροφορία για 3 ημέρες;&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1508921340878-ba53e1f016ec?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1170&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Φανταστείτε ότι περπατάτε σε μια άγνωστη πόλη για να φτάσετε σε ένα σημαντικό ραντεβού.</summary></entry><entry><title type="html">Search engines (μηχανές αναζήτησης)</title><link href="http://localhost:4000/jekyll/2019-05-01-5.search-engines.html" rel="alternate" type="text/html" title="Search engines (μηχανές αναζήτησης)" /><published>2019-05-01T00:00:00+03:00</published><updated>2019-05-01T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/5.search-engines</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-01-5.search-engines.html">&lt;p&gt;Μπορείς να ζήσεις χωρίς να αναζητήσεις οποιαδήποτε πληροφορία για 3 ημέρες;&lt;/p&gt;
 
 &lt;p&gt;Αυτό το απλό ερώτημα προσπάθησαν να απαντήσουν πριν μερικά χρόνια ερευνητές της Google, με τη συμμετοχή στην έρευνα ανθρωπολόγων, κοινωνιολόγων, ψυχολόγων κτλ.&lt;/p&gt;
 
@@ -2662,7 +2662,7 @@
 
 &lt;p&gt;Εικόνα 5.1: Μερίδιο χρήσης Μηχανών Αναζήτησης, Ελλάδα, 12.2021 (πηγή: https://gs.statcounter.com/search-engine-market-share).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στο “Κεφάλαιο 2: Η προετοιμασία” είδαμε με βάση έρευνες που ανέλυσαν εκατομμύρια αναζητήσεις και δισεκατομμύρια αποτελέσματα ότι όσο πιο ψηλά στη θέση κατάταξης βρίσκεται ένα αποτέλεσμα τόσο περισσότερο το επιλέγουν οι χρήστες.&lt;/p&gt;
 
@@ -2676,7 +2676,7 @@
 
 &lt;p&gt;Εικόνα 5.2: CTR και θέση κατάταξης σε αποτελέσματα Google - Backlinko.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ίδια περίπου συμπεριφορά επιδεικνύουν οι χρήστες τόσο μικρών συσκευών (smartphones, tables) όσο και μεγάλων (desktop pc, laptops).&lt;/p&gt;
 
@@ -2724,7 +2724,7 @@
 
 &lt;p&gt;Εικόνα 5.3: Οθόνη υποβολής website στο Google, μέσω του Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στη συνέχεια ακολουθεί ένας έλεγχος προκειμένου η Google να είναι βέβαιη ότι το website αυτό του ανήκει.&lt;/p&gt;
 
@@ -2742,7 +2742,7 @@
 
 &lt;p&gt;Εικόνα 5.4: Οθόνη υποβολής sitemaps στο Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αυτό ήταν!&lt;/p&gt;
 
@@ -2754,7 +2754,7 @@
 
 &lt;p&gt;Εικόνα 5.5: Οθόνη ελέγχου Index στο Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Πλέον είστε σε θέση να γνωρίζετε ποιες διευθύνσεις και με τι status καθεμιάς γνωρίζει η Google για το νέο website.&lt;/p&gt;
 
@@ -2776,7 +2776,7 @@
 
 &lt;p&gt;Εικόνα 5.6: Οθόνη ελέγχου απόδοσης στο Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Το συγκεκριμένο πάνελ στο Search Console είναι ένα φανταστικό εργαλείο, καθώς εκτός από την αξιοπιστία των δεδομένων (πρόκειται πρακτικά για το μόνο εργαλείο όπου μπορεί κάποιος να βρει απόλυτα σωστή πληροφορία καθώς είναι συνδεδεμένο με το Google Search) παρέχει λειτουργίες που μπορούν να φανούν πολύ χρήσιμες.&lt;/p&gt;
 
@@ -2790,7 +2790,7 @@
 
 &lt;p&gt;Εικόνα 5.7: Οθόνη ελέγχου απόδοσης στο Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Βλέπω ότι για τον απλό όρο αναζήτησης “αράχωβα” υπάρχει δυσανάλογα μεγάλος όγκος αναζητήσεων και αυξημένο ενδιαφέρον καθώς η σελίδα μου έχει εμφανιστεί στα αποτελέσματα 42.000 φορές αλλά την έχουν clickάρει μόνο 146 άτομα, αν και βρίσκεται κατά μέσο όρο στην θέση νο6, δηλαδή όχι και πολύ χαμηλά ώστε να έχει τόσο μικρή απόδοση.&lt;/p&gt;
 
@@ -2808,7 +2808,7 @@
 
 &lt;p&gt;Εικόνα 5.8: Αναζήτηση του όρου “αραχωβα” σε private session (02/2022).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Μοιραία το δικό μου αποτέλεσμα δεν έχει τύχη.&lt;/p&gt;
 
@@ -2820,7 +2820,7 @@
 
 &lt;p&gt;Εικόνα 5.9: Οθόνη ελέγχου Links στο Search Console.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Δεδομένου ότι τα πολλά, διαφορετικά και ποιοτικά links από sites με καλό προφίλ είναι ένα σήμα για την Google ότι οι σελίδες και το site στο οποίο οδηγούν έχει αξία και άρα θα πρέπει να εμφανίζεται ψηλότερα στα αποτελέσματά της, η ενότητα των Links είναι αρκετά σημαντική.&lt;/p&gt;
 
@@ -2854,7 +2854,7 @@
 
 &lt;p&gt;Εικόνα 5.10: Μπάρα αναζήτησης Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Πριν φτάσει όμως κανείς στην μπάρα εργαλείων υπάρχει ένα άλλο επίσης χρήσιμο εργαλείο: το auto suggest.&lt;/p&gt;
 
@@ -2864,7 +2864,7 @@
 
 &lt;p&gt;Εικόνα 5.11: Προτάσεις κατά τη διάρκεια αναζήτησης Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ένα ακόμη βασικό στοιχείο στα αποτελέσματα του Google Search που πρέπει κάποιος να μπορεί να ξεχωρίζει είναι το Knowledge Graph και οι χάρτες.&lt;/p&gt;
 
@@ -2876,7 +2876,7 @@
 
 &lt;p&gt;Εικόνα 5.12: Προτάσεις επιχειρήσεων σε Google Maps - Google My Business στο Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ένα ακόμη στοιχείο που προσωπικά χρησιμοποιώ αρκετά, για να καταλάβω τι πληροφορία είναι συναφής με μια αναζήτηση και ενδεχομένως αν μπορώ να την απαντήσω μέσα από μια σελίδα μου είναι η ενότητα Συναφείς αναζητήσεις (εικ. 5.13).&lt;/p&gt;
 
@@ -2886,7 +2886,7 @@
 
 &lt;p&gt;Εικόνα 5.13: Συναφείς αναζητήσεις στο Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εκτός από αυτές τις πολύ χρήσιμες λειτουργίες του Google Search υπάρχουν και μέθοδοι για την ίδια την αναζήτηση που πολλές φορές με έχουν βοηθήσει.&lt;/p&gt;
 
@@ -2938,7 +2938,7 @@
 
 &lt;p&gt;Εικόνα 5.14: Dashboard Ahrefs.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Έχει ακόμη αναγνώριση και ανάλυση ανταγωνιστών, προτάσεις για κενά στο περιεχόμενο μεταξύ μιας σελίδας στόχου και ανταγωνιστικών αυτής, κι ένα ακόμη που προσωπικά έχω χρησιμοποιήσει με επιτυχία, εύρεση χαμένων (broken) links, δηλαδή σελίδες ενδιαφέροντος οι οποίες έχουν links τα οποία δεν λειτουργούν πια και ενδεχομένως είναι ευκαιρία για αντικατάσταση με links προς τις σελίδες ενός website.&lt;/p&gt;
 
@@ -2954,7 +2954,7 @@
 
 &lt;p&gt;Εικόνα 5.15: Λειτουργία διαχωρισμού με βάση το κίνητρο της αναζήτησης του Semrush.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image5-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image5-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Το Semrush, όπως και το Ahrefs, δεδομένης της συνδρομής, απευθύνονται κυρίως σε μεγάλες εταιρείες και επαγγελματίες που διαχειρίζονται και βελτιώνουν sites τρίτων.&lt;/p&gt;
 
@@ -3008,7 +3008,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1566821525785-3abcca22fed2?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1169&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Μπορείς να ζήσεις χωρίς να αναζητήσεις οποιαδήποτε πληροφορία για 3 ημέρες;</summary></entry><entry><title type="html">On page optimisation</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-01-6.optimize-1-onsite.html" rel="alternate" type="text/html" title="On page optimisation" /><published>2019-05-01T00:00:00+03:00</published><updated>2019-05-01T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/6.optimize-1-onsite</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-05-01-6.optimize-1-onsite.html">&lt;p&gt;Πριν μερικά χρόνια με προσέγγισε μέσω ενός email η διαχειρίστρια ενός group στο Facebook με την ονομασία Secret Kitchen and Travel (&lt;a href=&quot;https://secretkitchenandtravel.gr&quot;&gt;secretkitchenandtravel.gr&lt;/a&gt;), μια ομάδα με αρκετά χιλιάδες μέλη της οποίας το ενδιαφέρον στρέφονταν γύρω από τα ταξίδια και τη μαγειρική.&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1566821525785-3abcca22fed2?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1169&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Μπορείς να ζήσεις χωρίς να αναζητήσεις οποιαδήποτε πληροφορία για 3 ημέρες;</summary></entry><entry><title type="html">On page optimisation</title><link href="http://localhost:4000/jekyll/2019-05-01-6.optimize-1-onsite.html" rel="alternate" type="text/html" title="On page optimisation" /><published>2019-05-01T00:00:00+03:00</published><updated>2019-05-01T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/6.optimize-1-onsite</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-05-01-6.optimize-1-onsite.html">&lt;p&gt;Πριν μερικά χρόνια με προσέγγισε μέσω ενός email η διαχειρίστρια ενός group στο Facebook με την ονομασία Secret Kitchen and Travel (&lt;a href=&quot;https://secretkitchenandtravel.gr&quot;&gt;secretkitchenandtravel.gr&lt;/a&gt;), μια ομάδα με αρκετά χιλιάδες μέλη της οποίας το ενδιαφέρον στρέφονταν γύρω από τα ταξίδια και τη μαγειρική.&lt;/p&gt;
 
 &lt;p&gt;Αν και ο σκοπός της επικοινωνίας ήταν να προσφέρω (ως διαχειριστής της μικρής οικογενειακής επιχείρησης διαμονής στην Αράχωβα) ένα δώρο για έναν διαγωνισμό που θα έκανε το group, τελικά κατέληξε σε μια συνεργασία που συνεχίζεται ακόμη και σήμερα.&lt;/p&gt;
 
@@ -3042,7 +3042,7 @@
 
 &lt;p&gt;Εικόνα 6.1: Αρχική σελίδα Secret Kitchen and Travel site.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αν και το site αυτό σήμερα έχει πολλές εκατοντάδες σελίδες και μια κίνηση πολλών χιλιάδων επισκεπτών ανά μήνα, θεωρώ ότι δεν έχει εκμεταλλευτεί ακόμη το πλήρες δυναμικό του για έναν βασικό λόγο: το &lt;strong&gt;On page optimisation&lt;/strong&gt; (εντός σελίδων βελτιστοποίηση).&lt;/p&gt;
 
@@ -3084,11 +3084,11 @@
 
 &lt;p&gt;Εικόνα 6.2: Τίτλοι σελίδων στα Tabs του Chrome (πηγή: semrush.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 6.3: Τίτλοι σελίδων στα αποτελέσματα Google Search.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σχεδόν μια ολόκληρη βιομηχανία έχει στηθεί πίσω από τη δημιουργία και απόδοση των τίτλων, καθώς εάν ένας τίτλος δεν είναι περιγραφικός και δεν αντικατοπτρίζει το περιεχόμενο της σελίδας πιθανώς οι χρήστες δεν θα τον επιλέξουν και δεν θα επισκεφτούν ποτέ τη σελίδα αυτή.&lt;/p&gt;
 
@@ -3121,7 +3121,7 @@
 
 &lt;p&gt;Εικόνα 6.4: Τίτλος με χρήση αριθμού και λέξης-μαγνήτη στο Arahova Pansion.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Προφανώς κανείς δεν μπορεί να γράψει τους τέλειους τίτλους από την αρχή, όμως αυτό δεν πειράζει.&lt;/p&gt;
 
@@ -3139,7 +3139,7 @@
 
 &lt;p&gt;Εικόνα 6.5: Description στο Arahova Pansion.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Μια καλή περιγραφή της σελίδας μέσω του Meta Description θα βοηθήσει τόσο τις μηχανές αναζήτησης να καταλάβουν το περιεχόμενο της σελίδας όσο και τους πιθανούς επισκέπτες να απαντήσουν γρήγορα στο αν αυτή η σελίδα περιέχει τις πληροφορίες που αναζητούν.&lt;/p&gt;
 
@@ -3157,7 +3157,7 @@
 
 &lt;p&gt;Εικόνα 6.6: Descriptions προϊόντων του Skroutz.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αν και παλαιότερα οι τίτλοι και περιγραφές στα αποτελέσματα αναζήτησης του Google Search προέρχονται αποκλειστικά από την κάθε σελίδα, τελευταία το Google δεν σέβεται απόλυτα τους τίτλους και τις περιγραφές που υπάρχουν στις σελίδες και σε κάποιες περιπτώσεις βάζει κάτι που θεωρεί εκείνο καλύτερο.&lt;/p&gt;
 
@@ -3203,7 +3203,7 @@
 
 &lt;p&gt;Εικόνα 6.7: Ανατομία ενός URL (πηγή: ahrefs.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Στη διεύθυνση &lt;a href=&quot;https://ahrefs.com/blog/seo-friendly-urls/&quot;&gt;https://ahrefs.com/blog/seo-friendly-urls/&lt;/a&gt; μπορεί κάποιος να διαβάσει περισσότερα για το πως να δημιουργεί κανείς φιλικά στους χρήστες και στις μηχανές URLs.&lt;/p&gt;
 
@@ -3259,7 +3259,7 @@
 
 &lt;p&gt;Εικόνα 6.8: Λειτουργία υπολογισμού τιμής - προσφοράς Ενεργειακού Πιστοποιητικού στο Energiakoi.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Μια άλλη περίπτωση που είχα μια ενδιαφέρουσα προσέγγιση όσον αφορά το περιεχόμενο είναι στο site του Arahova Pansion.&lt;/p&gt;
 
@@ -3271,7 +3271,7 @@
 
 &lt;p&gt;Εικόνα 6.9: Διαφήμιση Booking.com στα αποτελέσματα Google για τον όρο “αράχωβα διαμονή”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Έπρεπε κάτι άλλο να βρω, ώστε να δώσω αξία σε μια τέτοια αναζήτηση. Έψαξα λοιπόν τι είναι αυτό που &lt;span style=&quot;text-decoration:underline;&quot;&gt;δεν&lt;/span&gt; περιέχουν οι σελίδες των εταιρειών αυτών, το οποίο χρειάζονται οι χρήστες.&lt;/p&gt;
 
@@ -3291,7 +3291,7 @@
 
 &lt;p&gt;Εικόνα 6.10: Κάρτες επιχειρήσεων διαμονής στην Αράχωβα, στο Arahova-Pansion.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Τη σελίδα αυτή συνέδεσα με link με τις υπόλοιπες σελίδες του Arahova Pansion σε καίρια σημεία και άρχισε να εμφανίζεται στα αποτελέσματα Google πολύ σύντομα.&lt;/p&gt;
 
@@ -3299,7 +3299,7 @@
 
 &lt;p&gt;Εικόνα 6.11: 1η θέση του Arahova Pansion στην αναζήτηση “που να μείνω στην Αράχωβα”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Το σημαντικότερο βέβαια για μένα, που επιβεβαίωσε την υπόθεσή μου ότι οι επισκέπτες θα ήθελαν απευθείας επικοινωνία με τα καταλύματα ήταν το γεγονός ότι από μετρήσεις που έκανα στις κάρτες σχετικά με το τι clickάρουν οι χρήστες, προέκυψε ότι το 75% κάνει click στο τηλέφωνο και μόνο το 25% κάνει click στο “Δες το στο Booking”!&lt;/p&gt;
 
@@ -3329,7 +3329,7 @@
 
 &lt;p&gt;Εικόνα 6.12: Ίδιο περιεχόμενο με διαφορετική μορφοποίηση και ιεραρχία (πηγή: ama.org).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ας πάρουμε όμως λίγο τα πράγματα από την αρχή.&lt;/p&gt;
 
@@ -3374,7 +3374,7 @@
 
 &lt;p&gt;Εικόνα 6.13: Μπάρα εργαλείων μορφοποίησης και εφαρμογής κεφαλίδων του WordPress.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Σε τι όμως είναι χρήσιμο ένα ξεκάθαρο περίγραμμα με σωστούς τίτλους για κάθε ενότητα;&lt;/p&gt;
 
@@ -3394,7 +3394,7 @@
 
 &lt;p&gt;Εικόνα 6.14: Document outline σελίδας του Arahova Pansion.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Η δόμηση του περιεχομένου σε ενότητες και η κατάλληλη σήμανση κάθε ενότητας με έναν περιγραφικό σύντομο τίτλο σε ένα tag h1-h6 είναι ένα απαραίτητο στοιχείο που πρέπει να έχει μια καλή σελίδα.&lt;/p&gt;
 
@@ -3422,7 +3422,7 @@
 
 &lt;p&gt;Εικόνα 6.15: Διάγραμμα για κατάλληλο Internal linking (πηγή: kevin-indig.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Πολλές φορές είναι δόκιμη η δημιουργία αρκετών σελίδων σχετικών με ένα θέμα οι οποίες συνδέονται όλες με internal link με μια βασική σελίδα που περιέχει συνδέσμους προς όλες τις επιμέρους σελίδες. Αυτό είναι μια σελίδα-πυλώνας, και έχει πολλές πιθανότητες επιτυχίας στα αποτελέσματα των μηχανών αναζήτησης καθώς αξιολογείται ως σελίδα-αυθεντία υψηλής ποιότητας.&lt;/p&gt;
 
@@ -3494,7 +3494,7 @@
 
 &lt;p&gt;Εικόνα 6.16: Ευφάνταστη εικόνα διαφήμισης του Arahova Pansion, σχετικά με τις εκδηλώσεις του πανηγυριού της Αράχωβας και το χιονοδρομικό κέντρο.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-16.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-16.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ο σκοπός εδώ ήταν να πυροδοτήσω μια αντίδραση του τύπου &lt;strong&gt;“Μισό λεπτό, τι;;”&lt;/strong&gt;, κάτι που στη συνέχεια πίστευα ότι θα μεταφραζόταν σε κάτι που κάποιος δεν θα ξεχνούσε εύκολα: το να επισκεφτεί την Αράχωβα για να ζήσει τις 2 αυτές εμπειρίες.&lt;/p&gt;
 
@@ -3517,15 +3517,15 @@
 
 &lt;p&gt;Εικόνα 6.17: Φωτογραφία Playmobil στο χιονοδρομικό κέντρο Παρνασσού (Arahova Pansion).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-17.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-17.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 6.18: Φωτογραφία Playmobil στο χιονοδρομικό κέντρο Παρνασσού (Arahova Pansion).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-18.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-18.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 6.19: Φωτογραφία Playmobil στο χιονοδρομικό κέντρο Παρνασσού (Arahova Pansion).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image6-19.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image6-19.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Μετά τη δημοσίευση στο site, το μοιράστηκα σε social media και πολλοί το βρήκαν πολύ έξυπνο και πολύ ενδιαφέρον.&lt;/p&gt;
 
@@ -3595,7 +3595,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1633451238208-11c8e6c1fed4?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1176&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Πριν μερικά χρόνια με προσέγγισε μέσω ενός email η διαχειρίστρια ενός group στο Facebook με την ονομασία Secret Kitchen and Travel (secretkitchenandtravel.gr), μια ομάδα με αρκετά χιλιάδες μέλη της οποίας το ενδιαφέρον στρέφονταν γύρω από τα ταξίδια και τη μαγειρική.</summary></entry><entry><title type="html">Το website</title><link href="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-30-4.website.html" rel="alternate" type="text/html" title="Το website" /><published>2019-04-30T00:00:00+03:00</published><updated>2019-04-30T00:00:00+03:00</updated><id>http://localhost:4000/ebook-amazing-websites/jekyll/4.website</id><content type="html" xml:base="http://localhost:4000/ebook-amazing-websites/jekyll/2019-04-30-4.website.html">&lt;p&gt;Ένα website ή ιστότοπος είναι μια συλλογή από συνδεδεμένες μεταξύ τους σελίδες που μοιράζονται ένα μοναδικό όνομα τομέα, το domain name (πχ. google.com).&lt;/p&gt;
+&lt;p&gt;Cover image source: &lt;a href=&quot;https://images.unsplash.com/photo-1633451238208-11c8e6c1fed4?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1176&amp;amp;q=80&quot; target=&quot;_blank&quot;&gt;Unsplash.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Katsampu</name></author><category term="Jekyll" /><summary type="html">Πριν μερικά χρόνια με προσέγγισε μέσω ενός email η διαχειρίστρια ενός group στο Facebook με την ονομασία Secret Kitchen and Travel (secretkitchenandtravel.gr), μια ομάδα με αρκετά χιλιάδες μέλη της οποίας το ενδιαφέρον στρέφονταν γύρω από τα ταξίδια και τη μαγειρική.</summary></entry><entry><title type="html">Το website</title><link href="http://localhost:4000/jekyll/2019-04-30-4.website.html" rel="alternate" type="text/html" title="Το website" /><published>2019-04-30T00:00:00+03:00</published><updated>2019-04-30T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/4.website</id><content type="html" xml:base="http://localhost:4000/jekyll/2019-04-30-4.website.html">&lt;p&gt;Ένα website ή ιστότοπος είναι μια συλλογή από συνδεδεμένες μεταξύ τους σελίδες που μοιράζονται ένα μοναδικό όνομα τομέα, το domain name (πχ. google.com).&lt;/p&gt;
 
 &lt;p&gt;Κάθε ιστοσελίδα ενός ιστοτόπου παρέχει σαφείς συνδέσμους -τις περισσότερες φορές με τη μορφή τμήματος κειμένου με δυνατότητα click- που επιτρέπουν στο χρήστη να μετακινείται εύκολα από μια σελίδα σε μια άλλη.&lt;/p&gt;
 
@@ -3611,7 +3611,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.1: Σχηματική επικοινωνία μεταξύ clients που απευθύνουν αιτήματα για αποστολή αρχείων (requests) και server που απαντούν στα αιτήματα με αποστολές υλικού (πηγή: developer.mozilla.org).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-1.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ένα καλό website πρέπει να εμπεριέχει κάποια χαρακτηριστικά, όπως:&lt;/p&gt;
 
@@ -3641,7 +3641,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.2: Μέρη ενός Domain name (πηγή: kinsta.com)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-2.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Τα domains πιο συγκεκριμένα, αποτελούνται από τρία μέρη: έναν τομέα ανωτάτου επιπέδου (μερικές φορές ονομάζεται επέκταση ή top level domain), ένα όνομα τομέα (ή διεύθυνση IP, domain name) και έναν προαιρετικό υποτομέα.&lt;/p&gt;
 
@@ -3649,7 +3649,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.3: Μέρη ενός Domain name (πηγή: moz.com)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-3.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ένα domain μπορεί κάποιος να αγοράσει από επίσημους καταχωρητές (registrars), όπως είναι για την Ελλάδα τα papaki.com, easy.gr, ip.gr, dnhost.gr, tophost.gr κτλ.&lt;/p&gt;
 
@@ -3738,7 +3738,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.4: Το λογότυπο, το σλόγκαν - tagline και η βασική πλοήγηση του arahova-pansion και οι κύριοι πυλώνες περιεχομένου (2021).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-4.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αφού είναι ξεκάθαρη η ταυτότητα (logo, tagline) και ο τρόπος πλοήγησης στο website (navigation), το επόμενο πιο σημαντικό στοιχείο είναι όλα εκείνα τα πράγματα που θα συμβάλλουν στην επίτευξη του στόχου του site.&lt;/p&gt;
 
@@ -3752,19 +3752,19 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.5: Η πρόταση της αξίας (value proposition) του iPhone.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-5.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 4.6: Η πρόταση της αξίας (value proposition) του Amazon.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-6.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 4.7: Η πρόταση της αξίας (value proposition) του Netflix.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-7.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 4.8: Η πρόταση της αξίας (value proposition) του Skroutz Marketplace.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-8.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Εκτός από το value proposition, πρέπει να συνυπάρχουν στο site όλα εκείνα τα στοιχεία - εργαλεία που θα μετατρέψουν τον επισκέπτη σε πελάτη. Αυτά περιλαμβάνουν όλα τα τμήματα, τις πληροφορίες και τη λειτουργικότητα προς τη μετατροπή σε πελάτη.&lt;/p&gt;
 
@@ -3772,7 +3772,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.9: Call to Action κουμπιά στο Skroutz.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-9.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Για να φτάσει ωστόσο κάποιος στο τελευταίο κουμπί πιθανότατα θα έχει περισσότερα από ένα βήματα.&lt;/p&gt;
 
@@ -3870,13 +3870,13 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.10: Βασική δομή απλού site (πηγή: uxpin.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-10.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Από την άλλη, μια επιχειρηματική ηλεκτρονική παρουσία (εικ. 4.11) θα είχε διαχωρισμένο κάτω από την αρχική κεντρική σελίδα το περιεχόμενο σε ενότητες όπως: Σχετικά με την Επιχείρηση, Υπηρεσίες, Χαρτοφυλάκιο - υλοποιηθείσες εργασίες, Blog - Νέα και Επικοινωνία.&lt;/p&gt;
 
 &lt;p&gt;Εικόνα 4.11: Βασική δομή απλού site επιχείρησης (πηγή: nomiscomwebdesign.eu).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-11.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -3886,7 +3886,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.12: Δομή περιεχομένου site υπηρεσιών Ενεργειακών Πιστοποιητικών (πηγή: energiakoi.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-12.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -3896,7 +3896,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.13: Στοιχεία πλοήγησης breadcrumb και φίλτρων στο Skroutz.gr.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-13.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Αν και η βασική δομή ενός ιστοτόπου είναι καλό να έχει σχεδιαστεί από την αρχή, μπορεί και στην πορεία να αλλάξει και να διαμορφωθεί εκ νέου, εφόσον οι ανάγκες αλλάξουν ή αν κάτι χρειάζεται διόρθωση, ή ακόμη κι αν μια υφιστάμενη ηλεκτρονική παρουσία δεν είχε δομηθεί εξαρχής σε σωστές βάσεις.&lt;/p&gt;
 
@@ -3932,7 +3932,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.14: Πώς δουλεύει το Web (πηγή: academind.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-14.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Server&lt;/strong&gt;.&lt;/p&gt;
 
@@ -3978,7 +3978,7 @@ O server αναλαμβάνει να παρέχει τα κατάλληλα αρ
 
 &lt;p&gt;Εικόνα 4.15: Frontend vs Backend (πηγή: reddit.com).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ebook-amazing-websites/assets/images/image4-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/image4-15.jpg&quot; alt=&quot;alt_text&quot; title=&quot;image_tooltip&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Τόσο το Backend όσο και το Frontend συνεργάζονται αρμονικά μεταξύ τους προκειμένου το αποτέλεσμα της χρήσης μιας ιστοσελίδας να είναι σωστό και επιτυχημένο, οδηγώντας τελικά στην επίτευξη των business στόχων και στη μετατροπή των επισκεπτών σε πελάτες.&lt;/p&gt;
 
