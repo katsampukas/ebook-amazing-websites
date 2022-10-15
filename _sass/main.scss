@@ -136,3 +136,26 @@
   }
 }
 
+
+/////////////////////////////////
+// Home Heading and Description
+
+.markdown-section {
+
+  .home-title {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .home-subtitle {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    font-weight: normal;
+  }
+
+  .home-description {
+    line-height: 1.2;
+    font-size: .8em;
+    color: #999999;
+  }
+}
