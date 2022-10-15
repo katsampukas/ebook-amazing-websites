@@ -19,3 +19,7 @@
 .popupContainer .popUpBackground { transition: all 0.3s ease-in-out; position: fixed; left: 0; bottom: 0; right: 0; top: 0; }
 .popupContainer .popUpBackground.active { background-color: rgba(0, 0, 0, 0.4); }
 .popupContainer .popImage { position: relative; display: block; transition: all 0.3s ease-in-out; border-radius: 6px; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15), 0 10px 10px -5px rgba(0, 0, 0, 0.1); }
+
+.markdown-section .home-title { margin-bottom: 0; padding-bottom: 0; }
+.markdown-section .home-subtitle { margin: 0 0 0.5em 0; padding: 0; font-weight: normal; }
+.markdown-section .home-description { line-height: 1.2; font-size: .8em; color: #999999; }
