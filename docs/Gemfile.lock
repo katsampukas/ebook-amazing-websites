@@ -258,6 +258,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.15.1)
+  jekyll-sitemap
   jemoji
   webrick
 
