@@ -14,3 +14,4 @@ end
 
 gem 'jemoji'
 gem 'webrick'
+gem 'jekyll-sitemap'
